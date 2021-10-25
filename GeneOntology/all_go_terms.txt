@@ -1,0 +1,3057 @@
+go_id	Ontology	Term	Hits
+GO:0000009	MF	alpha-1,6-mannosyltransferase activity	1
+GO:0000012	BP	single strand break repair	2
+GO:0000030	MF	mannosyltransferase activity	6
+GO:0000041	BP	transition metal ion transport	4
+GO:0000045	BP	autophagosome assembly	7
+GO:0000049	MF	tRNA binding	5
+GO:0000062	MF	fatty-acyl-CoA binding	6
+GO:0000070	BP	mitotic sister chromatid segregation	1
+GO:0000075	BP	cell cycle checkpoint	8
+GO:0000077	BP	DNA damage checkpoint	5
+GO:0000079	BP	regulation of cyclin-dependent protein serine/threonine kinase activity	3
+GO:0000096	BP	sulfur amino acid metabolic process	9
+GO:0000097	BP	sulfur amino acid biosynthetic process	1
+GO:0000098	BP	sulfur amino acid catabolic process	2
+GO:0000118	CC	histone deacetylase complex	2
+GO:0000120	CC	RNA polymerase I transcription regulator complex	1
+GO:0000122	BP	negative regulation of transcription by RNA polymerase II	1
+GO:0000123	CC	histone acetyltransferase complex	7
+GO:0000124	CC	SAGA complex	2
+GO:0000139	CC	Golgi membrane	19
+GO:0000145	CC	exocyst	11
+GO:0000149	MF	SNARE binding	8
+GO:0000150	MF	recombinase activity	1
+GO:0000151	CC	ubiquitin ligase complex	22
+GO:0000152	CC	nuclear ubiquitin ligase complex	19
+GO:0000154	BP	rRNA modification	2
+GO:0000159	CC	protein phosphatase type 2A complex	5
+GO:0000165	BP	MAPK cascade	1
+GO:0000166	MF	nucleotide binding	1418
+GO:0000175	MF	3'-5'-exoribonuclease activity	1
+GO:0000176	CC	nuclear exosome (RNase complex)	1
+GO:0000178	CC	exosome (RNase complex)	2
+GO:0000184	BP	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	3
+GO:0000186	BP	activation of MAPKK activity	5
+GO:0000209	BP	protein polyubiquitination	2
+GO:0000213	MF	tRNA-intron endonuclease activity	2
+GO:0000221	CC	vacuolar proton-transporting V-type ATPase, V1 domain	1
+GO:0000226	BP	microtubule cytoskeleton organization	15
+GO:0000228	CC	nuclear chromosome	1
+GO:0000245	BP	spliceosomal complex assembly	1
+GO:0000255	BP	allantoin metabolic process	1
+GO:0000256	BP	allantoin catabolic process	1
+GO:0000270	BP	peptidoglycan metabolic process	4
+GO:0000271	BP	polysaccharide biosynthetic process	2
+GO:0000272	BP	polysaccharide catabolic process	1
+GO:0000276	CC	mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	4
+GO:0000278	BP	mitotic cell cycle	2
+GO:0000281	BP	mitotic cytokinesis	1
+GO:0000287	MF	magnesium ion binding	25
+GO:0000290	BP	deadenylation-dependent decapping of nuclear-transcribed mRNA	4
+GO:0000313	CC	organellar ribosome	2
+GO:0000314	CC	organellar small ribosomal subunit	2
+GO:0000315	CC	organellar large ribosomal subunit	2
+GO:0000323	CC	lytic vacuole	2
+GO:0000339	MF	RNA cap binding	1
+GO:0000340	MF	RNA 7-methylguanosine cap binding	1
+GO:0000347	CC	THO complex	1
+GO:0000350	BP	generation of catalytic spliceosome for second transesterification step	2
+GO:0000375	BP	RNA splicing, via transesterification reactions	11
+GO:0000377	BP	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	11
+GO:0000387	BP	spliceosomal snRNP assembly	1
+GO:0000394	BP	RNA splicing, via endonucleolytic cleavage and ligation	3
+GO:0000398	BP	mRNA splicing, via spliceosome	11
+GO:0000408	CC	EKC/KEOPS complex	1
+GO:0000413	BP	protein peptidyl-prolyl isomerization	20
+GO:0000428	CC	DNA-directed RNA polymerase complex	3
+GO:0000439	CC	transcription factor TFIIH core complex	2
+GO:0000444	CC	MIS12/MIND type complex	2
+GO:0000445	CC	THO complex part of transcription export complex	1
+GO:0000462	BP	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2
+GO:0000469	BP	cleavage involved in rRNA processing	1
+GO:0000502	CC	proteasome complex	1
+GO:0000702	MF	oxidized base lesion DNA N-glycosylase activity	1
+GO:0000723	BP	telomere maintenance	9
+GO:0000724	BP	double-strand break repair via homologous recombination	2
+GO:0000725	BP	recombinational repair	3
+GO:0000726	BP	non-recombinational repair	4
+GO:0000731	BP	DNA synthesis involved in DNA repair	1
+GO:0000737	BP	DNA catabolic process, endonucleolytic	1
+GO:0000774	MF	adenyl-nucleotide exchange factor activity	2
+GO:0000775	CC	chromosome, centromeric region	5
+GO:0000776	CC	kinetochore	5
+GO:0000781	CC	chromosome, telomeric region	2
+GO:0000782	CC	telomere cap complex	1
+GO:0000783	CC	nuclear telomere cap complex	1
+GO:0000785	CC	chromatin	5
+GO:0000786	CC	nucleosome	8
+GO:0000790	CC	nuclear chromatin	2
+GO:0000795	CC	synaptonemal complex	1
+GO:0000796	CC	condensin complex	2
+GO:0000808	CC	origin recognition complex	4
+GO:0000813	CC	ESCRT I complex	3
+GO:0000814	CC	ESCRT II complex	1
+GO:0000818	CC	nuclear MIS12/MIND complex	1
+GO:0000819	BP	sister chromatid segregation	1
+GO:0000910	BP	cytokinesis	2
+GO:0000956	BP	nuclear-transcribed mRNA catabolic process	7
+GO:0000976	MF	transcription regulatory region sequence-specific DNA binding	18
+GO:0000977	MF	RNA polymerase II transcription regulatory region sequence-specific DNA binding	4
+GO:0000978	MF	RNA polymerase II cis-regulatory region sequence-specific DNA binding	1
+GO:0000981	MF	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+GO:0000987	MF	cis-regulatory region sequence-specific DNA binding	1
+GO:0001067	MF	regulatory region nucleic acid binding	18
+GO:0001101	BP	response to acid chemical	1
+GO:0001401	CC	SAM complex	4
+GO:0001503	BP	ossification	1
+GO:0001510	BP	RNA methylation	15
+GO:0001518	CC	voltage-gated sodium channel complex	5
+GO:0001522	BP	pseudouridine synthesis	12
+GO:0001527	CC	microfibril	3
+GO:0001534	CC	radial spoke	2
+GO:0001653	MF	peptide receptor activity	9
+GO:0001664	MF	G protein-coupled receptor binding	15
+GO:0001671	MF	ATPase activator activity	2
+GO:0001726	CC	ruffle	2
+GO:0001733	MF	galactosylceramide sulfotransferase activity	3
+GO:0001765	BP	membrane raft assembly	4
+GO:0001772	CC	immunological synapse	1
+GO:0001775	BP	cell activation	2
+GO:0001836	BP	release of cytochrome c from mitochondria	1
+GO:0001882	MF	nucleoside binding	278
+GO:0001883	MF	purine nucleoside binding	278
+GO:0001919	BP	regulation of receptor recycling	1
+GO:0001932	BP	regulation of protein phosphorylation	10
+GO:0001934	BP	positive regulation of protein phosphorylation	7
+GO:0002064	BP	epithelial cell development	1
+GO:0002097	BP	tRNA wobble base modification	9
+GO:0002098	BP	tRNA wobble uridine modification	5
+GO:0002100	BP	tRNA wobble adenosine to inosine editing	4
+GO:0002161	MF	aminoacyl-tRNA editing activity	5
+GO:0002252	BP	immune effector process	1
+GO:0002376	BP	immune system process	32
+GO:0002532	BP	production of molecular mediator involved in inflammatory response	2
+GO:0002682	BP	regulation of immune system process	3
+GO:0002683	BP	negative regulation of immune system process	1
+GO:0002684	BP	positive regulation of immune system process	1
+GO:0002694	BP	regulation of leukocyte activation	1
+GO:0002695	BP	negative regulation of leukocyte activation	1
+GO:0002790	BP	peptide secretion	2
+GO:0003008	BP	system process	7
+GO:0003013	BP	circulatory system process	3
+GO:0003018	BP	vascular process in circulatory system	3
+GO:0003333	BP	amino acid transmembrane transport	2
+GO:0003334	BP	keratinocyte development	1
+GO:0003341	BP	cilium movement	2
+GO:0003352	BP	regulation of cilium movement	1
+GO:0003674	MF	molecular_function	9720
+GO:0003676	MF	nucleic acid binding	1495
+GO:0003677	MF	DNA binding	878
+GO:0003678	MF	DNA helicase activity	41
+GO:0003682	MF	chromatin binding	18
+GO:0003684	MF	damaged DNA binding	8
+GO:0003689	MF	DNA clamp loader activity	1
+GO:0003690	MF	double-stranded DNA binding	34
+GO:0003697	MF	single-stranded DNA binding	12
+GO:0003700	MF	DNA-binding transcription factor activity	207
+GO:0003707	MF	steroid hormone receptor activity	2
+GO:0003712	MF	transcription coregulator activity	38
+GO:0003713	MF	transcription coactivator activity	12
+GO:0003714	MF	transcription corepressor activity	1
+GO:0003723	MF	RNA binding	220
+GO:0003724	MF	RNA helicase activity	5
+GO:0003725	MF	double-stranded RNA binding	4
+GO:0003729	MF	mRNA binding	4
+GO:0003735	MF	structural constituent of ribosome	155
+GO:0003743	MF	translation initiation factor activity	27
+GO:0003746	MF	translation elongation factor activity	9
+GO:0003747	MF	translation release factor activity	4
+GO:0003755	MF	peptidyl-prolyl cis-trans isomerase activity	36
+GO:0003756	MF	protein disulfide isomerase activity	1
+GO:0003774	MF	motor activity	62
+GO:0003777	MF	microtubule motor activity	17
+GO:0003779	MF	actin binding	75
+GO:0003810	MF	protein-glutamine gamma-glutamyltransferase activity	4
+GO:0003824	MF	catalytic activity	3531
+GO:0003830	MF	beta-1,4-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity	1
+GO:0003839	MF	gamma-glutamylcyclotransferase activity	2
+GO:0003847	MF	1-alkyl-2-acetylglycerophosphocholine esterase activity	2
+GO:0003854	MF	3-beta-hydroxy-delta5-steroid dehydrogenase activity	12
+GO:0003860	MF	3-hydroxyisobutyryl-CoA hydrolase activity	15
+GO:0003870	MF	5-aminolevulinate synthase activity	2
+GO:0003872	MF	6-phosphofructokinase activity	3
+GO:0003873	MF	6-phosphofructo-2-kinase activity	3
+GO:0003880	MF	protein C-terminal carboxyl O-methyltransferase activity	3
+GO:0003883	MF	CTP synthase activity	2
+GO:0003885	MF	D-arabinono-1,4-lactone oxidase activity	1
+GO:0003887	MF	DNA-directed DNA polymerase activity	6
+GO:0003896	MF	DNA primase activity	1
+GO:0003899	MF	DNA-directed 5'-3' RNA polymerase activity	17
+GO:0003905	MF	alkylbase DNA N-glycosylase activity	1
+GO:0003906	MF	DNA-(apurinic or apyrimidinic site) endonuclease activity	2
+GO:0003908	MF	methylated-DNA-[protein]-cysteine S-methyltransferase activity	1
+GO:0003909	MF	DNA ligase activity	3
+GO:0003910	MF	DNA ligase (ATP) activity	3
+GO:0003916	MF	DNA topoisomerase activity	20
+GO:0003917	MF	DNA topoisomerase type I (single strand cut, ATP-independent) activity	4
+GO:0003918	MF	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity	3
+GO:0003922	MF	GMP synthase (glutamine-hydrolyzing) activity	1
+GO:0003924	MF	GTPase activity	243
+GO:0003937	MF	IMP cyclohydrolase activity	1
+GO:0003950	MF	NAD+ ADP-ribosyltransferase activity	32
+GO:0003951	MF	NAD+ kinase activity	2
+GO:0003953	MF	NAD+ nucleosidase activity	1
+GO:0003954	MF	NADH dehydrogenase activity	9
+GO:0003956	MF	NAD(P)+-protein-arginine ADP-ribosyltransferase activity	6
+GO:0003964	MF	RNA-directed DNA polymerase activity	1
+GO:0003968	MF	RNA-directed 5'-3' RNA polymerase activity	2
+GO:0003972	MF	RNA ligase (ATP) activity	1
+GO:0003980	MF	UDP-glucose:glycoprotein glucosyltransferase activity	2
+GO:0003989	MF	acetyl-CoA carboxylase activity	3
+GO:0003993	MF	acid phosphatase activity	1
+GO:0003995	MF	acyl-CoA dehydrogenase activity	2
+GO:0003997	MF	acyl-CoA oxidase activity	5
+GO:0004000	MF	adenosine deaminase activity	9
+GO:0004014	MF	adenosylmethionine decarboxylase activity	1
+GO:0004016	MF	adenylate cyclase activity	5
+GO:0004017	MF	adenylate kinase activity	3
+GO:0004019	MF	adenylosuccinate synthase activity	2
+GO:0004037	MF	allantoicase activity	1
+GO:0004045	MF	aminoacyl-tRNA hydrolase activity	4
+GO:0004055	MF	argininosuccinate synthase activity	1
+GO:0004057	MF	arginyltransferase activity	1
+GO:0004064	MF	arylesterase activity	2
+GO:0004066	MF	asparagine synthase (glutamine-hydrolyzing) activity	4
+GO:0004069	MF	L-aspartate:2-oxoglutarate aminotransferase activity	1
+GO:0004074	MF	biliverdin reductase (NAD(P)+) activity	1
+GO:0004096	MF	catalase activity	5
+GO:0004109	MF	coproporphyrinogen oxidase activity	1
+GO:0004112	MF	cyclic-nucleotide phosphodiesterase activity	22
+GO:0004113	MF	2',3'-cyclic-nucleotide 3'-phosphodiesterase activity	1
+GO:0004114	MF	3',5'-cyclic-nucleotide phosphodiesterase activity	21
+GO:0004126	MF	cytidine deaminase activity	1
+GO:0004127	MF	cytidylate kinase activity	1
+GO:0004129	MF	cytochrome-c oxidase activity	9
+GO:0004140	MF	dephospho-CoA kinase activity	3
+GO:0004143	MF	diacylglycerol kinase activity	9
+GO:0004146	MF	dihydrofolate reductase activity	2
+GO:0004175	MF	endopeptidase activity	191
+GO:0004176	MF	ATP-dependent peptidase activity	7
+GO:0004177	MF	aminopeptidase activity	4
+GO:0004180	MF	carboxypeptidase activity	23
+GO:0004181	MF	metallocarboxypeptidase activity	18
+GO:0004185	MF	serine-type carboxypeptidase activity	5
+GO:0004190	MF	aspartic-type endopeptidase activity	12
+GO:0004197	MF	cysteine-type endopeptidase activity	20
+GO:0004198	MF	calcium-dependent cysteine-type endopeptidase activity	19
+GO:0004222	MF	metalloendopeptidase activity	79
+GO:0004252	MF	serine-type endopeptidase activity	80
+GO:0004325	MF	ferrochelatase activity	1
+GO:0004329	MF	formate-tetrahydrofolate ligase activity	2
+GO:0004332	MF	fructose-bisphosphate aldolase activity	3
+GO:0004334	MF	fumarylacetoacetase activity	1
+GO:0004336	MF	galactosylceramidase activity	1
+GO:0004345	MF	glucose-6-phosphate dehydrogenase activity	3
+GO:0004347	MF	glucose-6-phosphate isomerase activity	2
+GO:0004356	MF	glutamate-ammonia ligase activity	2
+GO:0004357	MF	glutamate-cysteine ligase activity	1
+GO:0004359	MF	glutaminase activity	2
+GO:0004363	MF	glutathione synthase activity	3
+GO:0004367	MF	glycerol-3-phosphate dehydrogenase [NAD+] activity	3
+GO:0004371	MF	glycerone kinase activity	1
+GO:0004373	MF	glycogen (starch) synthase activity	2
+GO:0004375	MF	glycine dehydrogenase (decarboxylating) activity	1
+GO:0004376	MF	glycolipid mannosyltransferase activity	2
+GO:0004379	MF	glycylpeptide N-tetradecanoyltransferase activity	2
+GO:0004383	MF	guanylate cyclase activity	6
+GO:0004386	MF	helicase activity	73
+GO:0004392	MF	heme oxygenase (decyclizing) activity	2
+GO:0004402	MF	histone acetyltransferase activity	10
+GO:0004408	MF	holocytochrome-c synthase activity	1
+GO:0004411	MF	homogentisate 1,2-dioxygenase activity	1
+GO:0004415	MF	hyalurononglucosaminidase activity	2
+GO:0004418	MF	hydroxymethylbilane synthase activity	1
+GO:0004420	MF	hydroxymethylglutaryl-CoA reductase (NADPH) activity	1
+GO:0004421	MF	hydroxymethylglutaryl-CoA synthase activity	1
+GO:0004427	MF	inorganic diphosphatase activity	2
+GO:0004435	MF	phosphatidylinositol phospholipase C activity	18
+GO:0004470	MF	malic enzyme activity	3
+GO:0004471	MF	malate dehydrogenase (decarboxylating) (NAD+) activity	3
+GO:0004476	MF	mannose-6-phosphate isomerase activity	1
+GO:0004478	MF	methionine adenosyltransferase activity	3
+GO:0004484	MF	mRNA guanylyltransferase activity	1
+GO:0004488	MF	methylenetetrahydrofolate dehydrogenase (NADP+) activity	6
+GO:0004489	MF	methylenetetrahydrofolate reductase (NAD(P)H) activity	1
+GO:0004497	MF	monooxygenase activity	27
+GO:0004499	MF	N,N-dimethylaniline monooxygenase activity	14
+GO:0004506	MF	squalene monooxygenase activity	1
+GO:0004511	MF	tyrosine 3-monooxygenase activity	1
+GO:0004512	MF	inositol-3-phosphate synthase activity	1
+GO:0004514	MF	nicotinate-nucleotide diphosphorylase (carboxylating) activity	2
+GO:0004517	MF	nitric-oxide synthase activity	2
+GO:0004518	MF	nuclease activity	80
+GO:0004519	MF	endonuclease activity	49
+GO:0004520	MF	endodeoxyribonuclease activity	4
+GO:0004521	MF	endoribonuclease activity	41
+GO:0004523	MF	RNA-DNA hybrid ribonuclease activity	31
+GO:0004525	MF	ribonuclease III activity	2
+GO:0004526	MF	ribonuclease P activity	2
+GO:0004527	MF	exonuclease activity	9
+GO:0004529	MF	exodeoxyribonuclease activity	1
+GO:0004531	MF	deoxyribonuclease II activity	2
+GO:0004532	MF	exoribonuclease activity	1
+GO:0004535	MF	poly(A)-specific ribonuclease activity	1
+GO:0004536	MF	deoxyribonuclease activity	5
+GO:0004540	MF	ribonuclease activity	52
+GO:0004549	MF	tRNA-specific ribonuclease activity	4
+GO:0004553	MF	hydrolase activity, hydrolyzing O-glycosyl compounds	53
+GO:0004555	MF	alpha,alpha-trehalase activity	1
+GO:0004559	MF	alpha-mannosidase activity	12
+GO:0004560	MF	alpha-L-fucosidase activity	3
+GO:0004565	MF	beta-galactosidase activity	3
+GO:0004571	MF	mannosyl-oligosaccharide 1,2-alpha-mannosidase activity	7
+GO:0004576	MF	oligosaccharyl transferase activity	2
+GO:0004590	MF	orotidine-5'-phosphate decarboxylase activity	1
+GO:0004594	MF	pantothenate kinase activity	4
+GO:0004601	MF	peroxidase activity	10
+GO:0004602	MF	glutathione peroxidase activity	5
+GO:0004605	MF	phosphatidate cytidylyltransferase activity	1
+GO:0004609	MF	phosphatidylserine decarboxylase activity	2
+GO:0004611	MF	phosphoenolpyruvate carboxykinase activity	2
+GO:0004612	MF	phosphoenolpyruvate carboxykinase (ATP) activity	1
+GO:0004615	MF	phosphomannomutase activity	3
+GO:0004616	MF	phosphogluconate dehydrogenase (decarboxylating) activity	1
+GO:0004618	MF	phosphoglycerate kinase activity	2
+GO:0004620	MF	phospholipase activity	31
+GO:0004623	MF	phospholipase A2 activity	9
+GO:0004629	MF	phospholipase C activity	18
+GO:0004631	MF	phosphomevalonate kinase activity	1
+GO:0004637	MF	phosphoribosylamine-glycine ligase activity	1
+GO:0004643	MF	phosphoribosylaminoimidazolecarboxamide formyltransferase activity	1
+GO:0004645	MF	1,4-alpha-oligoglucan phosphorylase activity	6
+GO:0004649	MF	poly(ADP-ribose) glycohydrolase activity	1
+GO:0004652	MF	polynucleotide adenylyltransferase activity	6
+GO:0004655	MF	porphobilinogen synthase activity	1
+GO:0004656	MF	procollagen-proline 4-dioxygenase activity	3
+GO:0004659	MF	prenyltransferase activity	3
+GO:0004661	MF	protein geranylgeranyltransferase activity	1
+GO:0004663	MF	Rab geranylgeranyltransferase activity	1
+GO:0004668	MF	protein-arginine deiminase activity	2
+GO:0004671	MF	protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity	3
+GO:0004672	MF	protein kinase activity	499
+GO:0004674	MF	protein serine/threonine kinase activity	79
+GO:0004675	MF	transmembrane receptor protein serine/threonine kinase activity	11
+GO:0004677	MF	DNA-dependent protein kinase activity	1
+GO:0004683	MF	calmodulin-dependent protein kinase activity	4
+GO:0004713	MF	protein tyrosine kinase activity	5
+GO:0004714	MF	transmembrane receptor protein tyrosine kinase activity	1
+GO:0004715	MF	non-membrane spanning protein tyrosine kinase activity	2
+GO:0004721	MF	phosphoprotein phosphatase activity	61
+GO:0004725	MF	protein tyrosine phosphatase activity	58
+GO:0004743	MF	pyruvate kinase activity	3
+GO:0004748	MF	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	1
+GO:0004749	MF	ribose phosphate diphosphokinase activity	4
+GO:0004751	MF	ribose-5-phosphate isomerase activity	1
+GO:0004779	MF	sulfate adenylyltransferase activity	2
+GO:0004781	MF	sulfate adenylyltransferase (ATP) activity	2
+GO:0004784	MF	superoxide dismutase activity	2
+GO:0004788	MF	thiamine diphosphokinase activity	1
+GO:0004797	MF	thymidine kinase activity	1
+GO:0004800	MF	thyroxine 5'-deiodinase activity	2
+GO:0004803	MF	transposase activity	5
+GO:0004806	MF	triglyceride lipase activity	7
+GO:0004807	MF	triose-phosphate isomerase activity	1
+GO:0004809	MF	tRNA (guanine-N2-)-methyltransferase activity	3
+GO:0004810	MF	tRNA adenylyltransferase activity	1
+GO:0004812	MF	aminoacyl-tRNA ligase activity	43
+GO:0004813	MF	alanine-tRNA ligase activity	2
+GO:0004814	MF	arginine-tRNA ligase activity	3
+GO:0004819	MF	glutamine-tRNA ligase activity	1
+GO:0004826	MF	phenylalanine-tRNA ligase activity	2
+GO:0004827	MF	proline-tRNA ligase activity	2
+GO:0004832	MF	valine-tRNA ligase activity	1
+GO:0004838	MF	L-tyrosine:2-oxoglutarate aminotransferase activity	1
+GO:0004842	MF	ubiquitin-protein transferase activity	68
+GO:0004843	MF	thiol-dependent ubiquitin-specific protease activity	62
+GO:0004852	MF	uroporphyrinogen-III synthase activity	1
+GO:0004853	MF	uroporphyrinogen decarboxylase activity	1
+GO:0004857	MF	enzyme inhibitor activity	76
+GO:0004859	MF	phospholipase inhibitor activity	2
+GO:0004860	MF	protein kinase inhibitor activity	6
+GO:0004861	MF	cyclin-dependent protein serine/threonine kinase inhibitor activity	5
+GO:0004864	MF	protein phosphatase inhibitor activity	5
+GO:0004865	MF	protein serine/threonine phosphatase inhibitor activity	1
+GO:0004866	MF	endopeptidase inhibitor activity	48
+GO:0004867	MF	serine-type endopeptidase inhibitor activity	19
+GO:0004869	MF	cysteine-type endopeptidase inhibitor activity	14
+GO:0004879	MF	nuclear receptor activity	1
+GO:0004883	MF	glucocorticoid receptor activity	1
+GO:0004888	MF	transmembrane signaling receptor activity	414
+GO:0004896	MF	cytokine receptor activity	2
+GO:0004930	MF	G protein-coupled receptor activity	372
+GO:0004970	MF	ionotropic glutamate receptor activity	16
+GO:0004984	MF	olfactory receptor activity	53
+GO:0005024	MF	transforming growth factor beta-activated receptor activity	2
+GO:0005026	MF	transforming growth factor beta receptor activity, type II	2
+GO:0005044	MF	scavenger receptor activity	16
+GO:0005047	MF	signal recognition particle binding	2
+GO:0005048	MF	signal sequence binding	5
+GO:0005049	MF	nuclear export signal receptor activity	2
+GO:0005085	MF	guanyl-nucleotide exchange factor activity	113
+GO:0005092	MF	GDP-dissociation inhibitor activity	9
+GO:0005094	MF	Rho GDP-dissociation inhibitor activity	4
+GO:0005096	MF	GTPase activator activity	38
+GO:0005102	MF	signaling receptor binding	180
+GO:0005125	MF	cytokine activity	18
+GO:0005126	MF	cytokine receptor binding	27
+GO:0005127	MF	ciliary neurotrophic factor receptor binding	2
+GO:0005133	MF	interferon-gamma receptor binding	1
+GO:0005157	MF	macrophage colony-stimulating factor receptor binding	1
+GO:0005164	MF	tumor necrosis factor receptor binding	8
+GO:0005173	MF	stem cell factor receptor binding	1
+GO:0005179	MF	hormone activity	56
+GO:0005184	MF	neuropeptide hormone activity	8
+GO:0005185	MF	neurohypophyseal hormone activity	3
+GO:0005198	MF	structural molecule activity	201
+GO:0005199	MF	structural constituent of cell wall	2
+GO:0005200	MF	structural constituent of cytoskeleton	2
+GO:0005201	MF	extracellular matrix structural constituent	13
+GO:0005212	MF	structural constituent of eye lens	2
+GO:0005215	MF	transporter activity	576
+GO:0005216	MF	ion channel activity	200
+GO:0005217	MF	intracellular ligand-gated ion channel activity	2
+GO:0005219	MF	ryanodine-sensitive calcium-release channel activity	2
+GO:0005227	MF	calcium activated cation channel activity	6
+GO:0005230	MF	extracellular ligand-gated ion channel activity	53
+GO:0005244	MF	voltage-gated ion channel activity	27
+GO:0005245	MF	voltage-gated calcium channel activity	4
+GO:0005247	MF	voltage-gated chloride channel activity	9
+GO:0005248	MF	voltage-gated sodium channel activity	5
+GO:0005249	MF	voltage-gated potassium channel activity	8
+GO:0005253	MF	anion channel activity	9
+GO:0005254	MF	chloride channel activity	9
+GO:0005261	MF	cation channel activity	47
+GO:0005262	MF	calcium channel activity	15
+GO:0005267	MF	potassium channel activity	16
+GO:0005272	MF	sodium channel activity	14
+GO:0005315	MF	inorganic phosphate transmembrane transporter activity	2
+GO:0005319	MF	lipid transporter activity	17
+GO:0005337	MF	nucleoside transmembrane transporter activity	5
+GO:0005338	MF	nucleotide-sugar transmembrane transporter activity	8
+GO:0005351	MF	carbohydrate:proton symporter activity	1
+GO:0005375	MF	copper ion transmembrane transporter activity	2
+GO:0005381	MF	iron ion transmembrane transporter activity	2
+GO:0005388	MF	calcium transmembrane transporter activity, phosphorylative mechanism	4
+GO:0005402	MF	carbohydrate:cation symporter activity	1
+GO:0005484	MF	SNAP receptor activity	1
+GO:0005488	MF	binding	6696
+GO:0005496	MF	steroid binding	3
+GO:0005506	MF	iron ion binding	103
+GO:0005507	MF	copper ion binding	20
+GO:0005509	MF	calcium ion binding	504
+GO:0005515	MF	protein binding	2988
+GO:0005516	MF	calmodulin binding	16
+GO:0005520	MF	insulin-like growth factor binding	13
+GO:0005523	MF	tropomyosin binding	6
+GO:0005524	MF	ATP binding	1032
+GO:0005525	MF	GTP binding	278
+GO:0005537	MF	mannose binding	1
+GO:0005539	MF	glycosaminoglycan binding	16
+GO:0005540	MF	hyaluronic acid binding	11
+GO:0005542	MF	folic acid binding	1
+GO:0005543	MF	phospholipid binding	67
+GO:0005544	MF	calcium-dependent phospholipid binding	13
+GO:0005548	MF	phospholipid transporter activity	13
+GO:0005575	CC	cellular_component	3185
+GO:0005576	CC	extracellular region	232
+GO:0005577	CC	fibrinogen complex	2
+GO:0005581	CC	collagen trimer	4
+GO:0005615	CC	extracellular space	35
+GO:0005634	CC	nucleus	216
+GO:0005639	CC	integral component of nuclear inner membrane	1
+GO:0005643	CC	nuclear pore	8
+GO:0005663	CC	DNA replication factor C complex	1
+GO:0005664	CC	nuclear origin of replication recognition complex	2
+GO:0005666	CC	RNA polymerase III complex	2
+GO:0005667	CC	transcription regulator complex	13
+GO:0005668	CC	RNA polymerase transcription factor SL1 complex	1
+GO:0005669	CC	transcription factor TFIID complex	3
+GO:0005672	CC	transcription factor TFIIA complex	3
+GO:0005680	CC	anaphase-promoting complex	19
+GO:0005681	CC	spliceosomal complex	4
+GO:0005685	CC	U1 snRNP	2
+GO:0005694	CC	chromosome	17
+GO:0005697	CC	telomerase holoenzyme complex	1
+GO:0005730	CC	nucleolus	4
+GO:0005732	CC	small nucleolar ribonucleoprotein complex	3
+GO:0005737	CC	cytoplasm	101
+GO:0005739	CC	mitochondrion	19
+GO:0005740	CC	mitochondrial envelope	3
+GO:0005741	CC	mitochondrial outer membrane	7
+GO:0005742	CC	mitochondrial outer membrane translocase complex	1
+GO:0005743	CC	mitochondrial inner membrane	10
+GO:0005746	CC	mitochondrial respirasome	1
+GO:0005747	CC	mitochondrial respiratory chain complex I	4
+GO:0005750	CC	mitochondrial respiratory chain complex III	1
+GO:0005751	CC	mitochondrial respiratory chain complex IV	2
+GO:0005759	CC	mitochondrial matrix	3
+GO:0005761	CC	mitochondrial ribosome	2
+GO:0005762	CC	mitochondrial large ribosomal subunit	2
+GO:0005763	CC	mitochondrial small ribosomal subunit	2
+GO:0005764	CC	lysosome	2
+GO:0005765	CC	lysosomal membrane	2
+GO:0005773	CC	vacuole	2
+GO:0005774	CC	vacuolar membrane	2
+GO:0005777	CC	peroxisome	8
+GO:0005779	CC	integral component of peroxisomal membrane	6
+GO:0005783	CC	endoplasmic reticulum	14
+GO:0005785	CC	signal recognition particle receptor complex	1
+GO:0005786	CC	signal recognition particle, endoplasmic reticulum targeting	2
+GO:0005787	CC	signal peptidase complex	3
+GO:0005788	CC	endoplasmic reticulum lumen	2
+GO:0005789	CC	endoplasmic reticulum membrane	24
+GO:0005794	CC	Golgi apparatus	1
+GO:0005795	CC	Golgi stack	1
+GO:0005801	CC	cis-Golgi network	2
+GO:0005802	CC	trans-Golgi network	1
+GO:0005813	CC	centrosome	1
+GO:0005815	CC	microtubule organizing center	5
+GO:0005819	CC	spindle	1
+GO:0005839	CC	proteasome core complex	21
+GO:0005840	CC	ribosome	146
+GO:0005845	CC	mRNA cap binding complex	1
+GO:0005849	CC	mRNA cleavage factor complex	1
+GO:0005852	CC	eukaryotic translation initiation factor 3 complex	8
+GO:0005856	CC	cytoskeleton	41
+GO:0005861	CC	troponin complex	9
+GO:0005868	CC	cytoplasmic dynein complex	2
+GO:0005869	CC	dynactin complex	3
+GO:0005874	CC	microtubule	2
+GO:0005875	CC	microtubule associated complex	26
+GO:0005882	CC	intermediate filament	12
+GO:0005885	CC	Arp2/3 protein complex	4
+GO:0005886	CC	plasma membrane	8
+GO:0005887	CC	integral component of plasma membrane	7
+GO:0005890	CC	sodium:potassium-exchanging ATPase complex	3
+GO:0005891	CC	voltage-gated calcium channel complex	4
+GO:0005911	CC	cell-cell junction	1
+GO:0005912	CC	adherens junction	4
+GO:0005925	CC	focal adhesion	4
+GO:0005929	CC	cilium	3
+GO:0005938	CC	cell cortex	1
+GO:0005942	CC	phosphatidylinositol 3-kinase complex	5
+GO:0005944	CC	phosphatidylinositol 3-kinase complex, class IB	4
+GO:0005956	CC	protein kinase CK2 complex	1
+GO:0005975	BP	carbohydrate metabolic process	136
+GO:0005976	BP	polysaccharide metabolic process	3
+GO:0005977	BP	glycogen metabolic process	2
+GO:0005978	BP	glycogen biosynthetic process	2
+GO:0005984	BP	disaccharide metabolic process	1
+GO:0005991	BP	trehalose metabolic process	1
+GO:0005996	BP	monosaccharide metabolic process	17
+GO:0006000	BP	fructose metabolic process	3
+GO:0006006	BP	glucose metabolic process	7
+GO:0006012	BP	galactose metabolic process	1
+GO:0006013	BP	mannose metabolic process	5
+GO:0006020	BP	inositol metabolic process	1
+GO:0006021	BP	inositol biosynthetic process	1
+GO:0006022	BP	aminoglycan metabolic process	11
+GO:0006026	BP	aminoglycan catabolic process	4
+GO:0006027	BP	glycosaminoglycan catabolic process	4
+GO:0006066	BP	alcohol metabolic process	18
+GO:0006071	BP	glycerol metabolic process	1
+GO:0006072	BP	glycerol-3-phosphate metabolic process	3
+GO:0006073	BP	cellular glucan metabolic process	2
+GO:0006081	BP	cellular aldehyde metabolic process	2
+GO:0006082	BP	organic acid metabolic process	119
+GO:0006084	BP	acetyl-CoA metabolic process	1
+GO:0006090	BP	pyruvate metabolic process	13
+GO:0006091	BP	generation of precursor metabolites and energy	25
+GO:0006094	BP	gluconeogenesis	4
+GO:0006096	BP	glycolytic process	13
+GO:0006098	BP	pentose-phosphate shunt	1
+GO:0006099	BP	tricarboxylic acid cycle	1
+GO:0006101	BP	citrate metabolic process	1
+GO:0006112	BP	energy reserve metabolic process	2
+GO:0006120	BP	mitochondrial electron transport, NADH to ubiquinone	2
+GO:0006122	BP	mitochondrial electron transport, ubiquinol to cytochrome c	1
+GO:0006139	BP	nucleobase-containing compound metabolic process	779
+GO:0006144	BP	purine nucleobase metabolic process	1
+GO:0006163	BP	purine nucleotide metabolic process	52
+GO:0006164	BP	purine nucleotide biosynthetic process	34
+GO:0006165	BP	nucleoside diphosphate phosphorylation	13
+GO:0006171	BP	cAMP biosynthetic process	5
+GO:0006177	BP	GMP biosynthetic process	1
+GO:0006182	BP	cGMP biosynthetic process	6
+GO:0006188	BP	IMP biosynthetic process	1
+GO:0006189	BP	'de novo' IMP biosynthetic process	1
+GO:0006206	BP	pyrimidine nucleobase metabolic process	1
+GO:0006207	BP	'de novo' pyrimidine nucleobase biosynthetic process	1
+GO:0006213	BP	pyrimidine nucleoside metabolic process	1
+GO:0006216	BP	cytidine catabolic process	1
+GO:0006220	BP	pyrimidine nucleotide metabolic process	2
+GO:0006221	BP	pyrimidine nucleotide biosynthetic process	2
+GO:0006259	BP	DNA metabolic process	388
+GO:0006260	BP	DNA replication	30
+GO:0006265	BP	DNA topological change	20
+GO:0006269	BP	DNA replication, synthesis of RNA primer	2
+GO:0006270	BP	DNA replication initiation	2
+GO:0006275	BP	regulation of DNA replication	3
+GO:0006278	BP	RNA-dependent DNA biosynthetic process	1
+GO:0006281	BP	DNA repair	88
+GO:0006282	BP	regulation of DNA repair	2
+GO:0006284	BP	base-excision repair	5
+GO:0006289	BP	nucleotide-excision repair	4
+GO:0006298	BP	mismatch repair	10
+GO:0006302	BP	double-strand break repair	9
+GO:0006303	BP	double-strand break repair via nonhomologous end joining	4
+GO:0006304	BP	DNA modification	4
+GO:0006305	BP	DNA alkylation	4
+GO:0006306	BP	DNA methylation	4
+GO:0006308	BP	DNA catabolic process	1
+GO:0006309	BP	apoptotic DNA fragmentation	1
+GO:0006310	BP	DNA recombination	162
+GO:0006313	BP	transposition, DNA-mediated	97
+GO:0006323	BP	DNA packaging	3
+GO:0006325	BP	chromatin organization	46
+GO:0006333	BP	chromatin assembly or disassembly	4
+GO:0006334	BP	nucleosome assembly	18
+GO:0006336	BP	DNA replication-independent nucleosome assembly	2
+GO:0006338	BP	chromatin remodeling	6
+GO:0006351	BP	transcription, DNA-templated	57
+GO:0006352	BP	DNA-templated transcription, initiation	22
+GO:0006354	BP	DNA-templated transcription, elongation	7
+GO:0006355	BP	regulation of transcription, DNA-templated	532
+GO:0006357	BP	regulation of transcription by RNA polymerase II	34
+GO:0006359	BP	regulation of transcription by RNA polymerase III	1
+GO:0006360	BP	transcription by RNA polymerase I	1
+GO:0006364	BP	rRNA processing	29
+GO:0006366	BP	transcription by RNA polymerase II	9
+GO:0006367	BP	transcription initiation from RNA polymerase II promoter	10
+GO:0006368	BP	transcription elongation from RNA polymerase II promoter	7
+GO:0006370	BP	7-methylguanosine mRNA capping	1
+GO:0006376	BP	mRNA splice site selection	2
+GO:0006378	BP	mRNA polyadenylation	1
+GO:0006383	BP	transcription by RNA polymerase III	3
+GO:0006384	BP	transcription initiation from RNA polymerase III promoter	1
+GO:0006388	BP	tRNA splicing, via endonucleolytic cleavage and ligation	3
+GO:0006396	BP	RNA processing	137
+GO:0006397	BP	mRNA processing	39
+GO:0006399	BP	tRNA metabolic process	83
+GO:0006400	BP	tRNA modification	23
+GO:0006401	BP	RNA catabolic process	9
+GO:0006402	BP	mRNA catabolic process	8
+GO:0006405	BP	RNA export from nucleus	4
+GO:0006406	BP	mRNA export from nucleus	4
+GO:0006412	BP	translation	151
+GO:0006413	BP	translational initiation	21
+GO:0006414	BP	translational elongation	7
+GO:0006415	BP	translational termination	4
+GO:0006417	BP	regulation of translation	4
+GO:0006418	BP	tRNA aminoacylation for protein translation	37
+GO:0006419	BP	alanyl-tRNA aminoacylation	2
+GO:0006420	BP	arginyl-tRNA aminoacylation	3
+GO:0006425	BP	glutaminyl-tRNA aminoacylation	1
+GO:0006432	BP	phenylalanyl-tRNA aminoacylation	1
+GO:0006433	BP	prolyl-tRNA aminoacylation	2
+GO:0006438	BP	valyl-tRNA aminoacylation	1
+GO:0006446	BP	regulation of translational initiation	1
+GO:0006448	BP	regulation of translational elongation	3
+GO:0006449	BP	regulation of translational termination	2
+GO:0006450	BP	regulation of translational fidelity	1
+GO:0006457	BP	protein folding	24
+GO:0006464	BP	cellular protein modification process	824
+GO:0006465	BP	signal peptide processing	3
+GO:0006468	BP	protein phosphorylation	492
+GO:0006470	BP	protein dephosphorylation	58
+GO:0006471	BP	protein ADP-ribosylation	10
+GO:0006473	BP	protein acetylation	10
+GO:0006474	BP	N-terminal protein amino acid acetylation	1
+GO:0006475	BP	internal protein amino acid acetylation	9
+GO:0006476	BP	protein deacetylation	3
+GO:0006479	BP	protein methylation	13
+GO:0006480	BP	N-terminal protein amino acid methylation	2
+GO:0006481	BP	C-terminal protein methylation	3
+GO:0006486	BP	protein glycosylation	86
+GO:0006487	BP	protein N-linked glycosylation	6
+GO:0006488	BP	dolichol-linked oligosaccharide biosynthetic process	3
+GO:0006490	BP	oligosaccharide-lipid intermediate biosynthetic process	3
+GO:0006493	BP	protein O-linked glycosylation	3
+GO:0006497	BP	protein lipidation	12
+GO:0006505	BP	GPI anchor metabolic process	12
+GO:0006506	BP	GPI anchor biosynthetic process	12
+GO:0006508	BP	proteolysis	384
+GO:0006511	BP	ubiquitin-dependent protein catabolic process	47
+GO:0006516	BP	glycoprotein catabolic process	1
+GO:0006518	BP	peptide metabolic process	178
+GO:0006520	BP	cellular amino acid metabolic process	78
+GO:0006525	BP	arginine metabolic process	1
+GO:0006526	BP	arginine biosynthetic process	1
+GO:0006528	BP	asparagine metabolic process	4
+GO:0006529	BP	asparagine biosynthetic process	4
+GO:0006534	BP	cysteine metabolic process	5
+GO:0006536	BP	glutamate metabolic process	1
+GO:0006537	BP	glutamate biosynthetic process	1
+GO:0006541	BP	glutamine metabolic process	4
+GO:0006542	BP	glutamine biosynthetic process	2
+GO:0006544	BP	glycine metabolic process	1
+GO:0006546	BP	glycine catabolic process	1
+GO:0006555	BP	methionine metabolic process	2
+GO:0006556	BP	S-adenosylmethionine biosynthetic process	3
+GO:0006558	BP	L-phenylalanine metabolic process	1
+GO:0006559	BP	L-phenylalanine catabolic process	1
+GO:0006570	BP	tyrosine metabolic process	1
+GO:0006575	BP	cellular modified amino acid metabolic process	30
+GO:0006576	BP	cellular biogenic amine metabolic process	2
+GO:0006595	BP	polyamine metabolic process	1
+GO:0006596	BP	polyamine biosynthetic process	1
+GO:0006597	BP	spermine biosynthetic process	1
+GO:0006605	BP	protein targeting	9
+GO:0006606	BP	protein import into nucleus	8
+GO:0006612	BP	protein targeting to membrane	8
+GO:0006613	BP	cotranslational protein targeting to membrane	7
+GO:0006614	BP	SRP-dependent cotranslational protein targeting to membrane	7
+GO:0006621	BP	protein retention in ER lumen	3
+GO:0006625	BP	protein targeting to peroxisome	1
+GO:0006629	BP	lipid metabolic process	156
+GO:0006631	BP	fatty acid metabolic process	13
+GO:0006633	BP	fatty acid biosynthetic process	4
+GO:0006635	BP	fatty acid beta-oxidation	5
+GO:0006637	BP	acyl-CoA metabolic process	1
+GO:0006643	BP	membrane lipid metabolic process	18
+GO:0006644	BP	phospholipid metabolic process	44
+GO:0006650	BP	glycerophospholipid metabolic process	25
+GO:0006655	BP	phosphatidylglycerol biosynthetic process	1
+GO:0006658	BP	phosphatidylserine metabolic process	2
+GO:0006659	BP	phosphatidylserine biosynthetic process	2
+GO:0006661	BP	phosphatidylinositol biosynthetic process	12
+GO:0006664	BP	glycolipid metabolic process	16
+GO:0006665	BP	sphingolipid metabolic process	3
+GO:0006672	BP	ceramide metabolic process	3
+GO:0006677	BP	glycosylceramide metabolic process	1
+GO:0006681	BP	galactosylceramide metabolic process	1
+GO:0006683	BP	galactosylceramide catabolic process	1
+GO:0006687	BP	glycosphingolipid metabolic process	1
+GO:0006694	BP	steroid biosynthetic process	17
+GO:0006695	BP	cholesterol biosynthetic process	1
+GO:0006720	BP	isoprenoid metabolic process	6
+GO:0006721	BP	terpenoid metabolic process	2
+GO:0006725	BP	cellular aromatic compound metabolic process	802
+GO:0006729	BP	tetrahydrobiopterin biosynthetic process	2
+GO:0006739	BP	NADP metabolic process	3
+GO:0006741	BP	NADP biosynthetic process	2
+GO:0006743	BP	ubiquinone metabolic process	2
+GO:0006744	BP	ubiquinone biosynthetic process	2
+GO:0006749	BP	glutathione metabolic process	24
+GO:0006750	BP	glutathione biosynthetic process	4
+GO:0006751	BP	glutathione catabolic process	2
+GO:0006753	BP	nucleoside phosphate metabolic process	77
+GO:0006754	BP	ATP biosynthetic process	11
+GO:0006757	BP	ATP generation from ADP	13
+GO:0006760	BP	folic acid-containing compound metabolic process	2
+GO:0006766	BP	vitamin metabolic process	3
+GO:0006767	BP	water-soluble vitamin metabolic process	3
+GO:0006771	BP	riboflavin metabolic process	1
+GO:0006777	BP	Mo-molybdopterin cofactor biosynthetic process	2
+GO:0006778	BP	porphyrin-containing compound metabolic process	9
+GO:0006779	BP	porphyrin-containing compound biosynthetic process	4
+GO:0006783	BP	heme biosynthetic process	2
+GO:0006784	BP	heme A biosynthetic process	1
+GO:0006787	BP	porphyrin-containing compound catabolic process	1
+GO:0006788	BP	heme oxidation	2
+GO:0006790	BP	sulfur compound metabolic process	42
+GO:0006793	BP	phosphorus metabolic process	693
+GO:0006796	BP	phosphate-containing compound metabolic process	693
+GO:0006801	BP	superoxide metabolic process	6
+GO:0006807	BP	nitrogen compound metabolic process	2244
+GO:0006809	BP	nitric oxide biosynthetic process	2
+GO:0006810	BP	transport	861
+GO:0006811	BP	ion transport	340
+GO:0006812	BP	cation transport	135
+GO:0006813	BP	potassium ion transport	16
+GO:0006814	BP	sodium ion transport	17
+GO:0006816	BP	calcium ion transport	12
+GO:0006817	BP	phosphate ion transport	3
+GO:0006820	BP	anion transport	52
+GO:0006821	BP	chloride transport	9
+GO:0006825	BP	copper ion transport	2
+GO:0006826	BP	iron ion transport	2
+GO:0006836	BP	neurotransmitter transport	5
+GO:0006839	BP	mitochondrial transport	2
+GO:0006848	BP	pyruvate transport	2
+GO:0006850	BP	mitochondrial pyruvate transmembrane transport	2
+GO:0006865	BP	amino acid transport	2
+GO:0006869	BP	lipid transport	87
+GO:0006873	BP	cellular ion homeostasis	3
+GO:0006874	BP	cellular calcium ion homeostasis	2
+GO:0006875	BP	cellular metal ion homeostasis	3
+GO:0006879	BP	cellular iron ion homeostasis	1
+GO:0006886	BP	intracellular protein transport	93
+GO:0006887	BP	exocytosis	10
+GO:0006888	BP	endoplasmic reticulum to Golgi vesicle-mediated transport	13
+GO:0006890	BP	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	3
+GO:0006891	BP	intra-Golgi vesicle-mediated transport	3
+GO:0006897	BP	endocytosis	2
+GO:0006903	BP	vesicle targeting	1
+GO:0006904	BP	vesicle docking involved in exocytosis	3
+GO:0006906	BP	vesicle fusion	1
+GO:0006913	BP	nucleocytoplasmic transport	15
+GO:0006914	BP	autophagy	7
+GO:0006915	BP	apoptotic process	10
+GO:0006919	BP	activation of cysteine-type endopeptidase activity involved in apoptotic process	2
+GO:0006928	BP	movement of cell or subcellular component	66
+GO:0006937	BP	regulation of muscle contraction	1
+GO:0006940	BP	regulation of smooth muscle contraction	1
+GO:0006950	BP	response to stress	116
+GO:0006952	BP	defense response	7
+GO:0006954	BP	inflammatory response	3
+GO:0006955	BP	immune response	31
+GO:0006974	BP	cellular response to DNA damage stimulus	97
+GO:0006979	BP	response to oxidative stress	5
+GO:0006986	BP	response to unfolded protein	1
+GO:0006996	BP	organelle organization	136
+GO:0007004	BP	telomere maintenance via telomerase	1
+GO:0007005	BP	mitochondrion organization	10
+GO:0007006	BP	mitochondrial membrane organization	2
+GO:0007007	BP	inner mitochondrial membrane organization	2
+GO:0007009	BP	plasma membrane organization	14
+GO:0007010	BP	cytoskeleton organization	38
+GO:0007015	BP	actin filament organization	6
+GO:0007017	BP	microtubule-based process	83
+GO:0007018	BP	microtubule-based movement	64
+GO:0007021	BP	tubulin complex assembly	2
+GO:0007023	BP	post-chaperonin tubulin folding pathway	2
+GO:0007029	BP	endoplasmic reticulum organization	1
+GO:0007030	BP	Golgi organization	1
+GO:0007031	BP	peroxisome organization	3
+GO:0007033	BP	vacuole organization	8
+GO:0007034	BP	vacuolar transport	15
+GO:0007040	BP	lysosome organization	1
+GO:0007041	BP	lysosomal transport	1
+GO:0007049	BP	cell cycle	3
+GO:0007051	BP	spindle organization	5
+GO:0007052	BP	mitotic spindle organization	2
+GO:0007059	BP	chromosome segregation	6
+GO:0007062	BP	sister chromatid cohesion	4
+GO:0007064	BP	mitotic sister chromatid cohesion	4
+GO:0007076	BP	mitotic chromosome condensation	2
+GO:0007088	BP	regulation of mitotic nuclear division	5
+GO:0007093	BP	mitotic cell cycle checkpoint	3
+GO:0007094	BP	mitotic spindle assembly checkpoint	1
+GO:0007096	BP	regulation of exit from mitosis	1
+GO:0007099	BP	centriole replication	1
+GO:0007130	BP	synaptonemal complex assembly	1
+GO:0007154	BP	cell communication	33
+GO:0007155	BP	cell adhesion	243
+GO:0007156	BP	homophilic cell adhesion via plasma membrane adhesion molecules	193
+GO:0007160	BP	cell-matrix adhesion	4
+GO:0007162	BP	negative regulation of cell adhesion	2
+GO:0007165	BP	signal transduction	826
+GO:0007166	BP	cell surface receptor signaling pathway	55
+GO:0007167	BP	enzyme linked receptor protein signaling pathway	2
+GO:0007169	BP	transmembrane receptor protein tyrosine kinase signaling pathway	2
+GO:0007172	BP	signal complex assembly	2
+GO:0007186	BP	G protein-coupled receptor signaling pathway	435
+GO:0007205	BP	protein kinase C-activating G protein-coupled receptor signaling pathway	9
+GO:0007212	BP	dopamine receptor signaling pathway	3
+GO:0007213	BP	G protein-coupled acetylcholine receptor signaling pathway	1
+GO:0007217	BP	tachykinin receptor signaling pathway	4
+GO:0007218	BP	neuropeptide signaling pathway	11
+GO:0007219	BP	Notch signaling pathway	12
+GO:0007224	BP	smoothened signaling pathway	4
+GO:0007259	BP	receptor signaling pathway via JAK-STAT	1
+GO:0007264	BP	small GTPase mediated signal transduction	31
+GO:0007267	BP	cell-cell signaling	3
+GO:0007268	BP	chemical synaptic transmission	2
+GO:0007275	BP	multicellular organism development	49
+GO:0007276	BP	gamete generation	2
+GO:0007283	BP	spermatogenesis	1
+GO:0007342	BP	fusion of sperm to egg plasma membrane involved in single fertilization	1
+GO:0007346	BP	regulation of mitotic cell cycle	9
+GO:0007399	BP	nervous system development	1
+GO:0007411	BP	axon guidance	1
+GO:0007586	BP	digestion	2
+GO:0007596	BP	blood coagulation	5
+GO:0007599	BP	hemostasis	5
+GO:0007600	BP	sensory perception	4
+GO:0007601	BP	visual perception	1
+GO:0007605	BP	sensory perception of sound	1
+GO:0007606	BP	sensory perception of chemical stimulus	2
+GO:0007610	BP	behavior	7
+GO:0007622	BP	rhythmic behavior	1
+GO:0007623	BP	circadian rhythm	3
+GO:0007631	BP	feeding behavior	7
+GO:0008009	MF	chemokine activity	11
+GO:0008013	MF	beta-catenin binding	5
+GO:0008017	MF	microtubule binding	67
+GO:0008023	CC	transcription elongation factor complex	8
+GO:0008033	BP	tRNA processing	41
+GO:0008047	MF	enzyme activator activity	51
+GO:0008053	BP	mitochondrial fusion	5
+GO:0008061	MF	chitin binding	2
+GO:0008064	BP	regulation of actin polymerization or depolymerization	18
+GO:0008066	MF	glutamate receptor activity	16
+GO:0008076	CC	voltage-gated potassium channel complex	2
+GO:0008079	MF	translation termination factor activity	4
+GO:0008080	MF	N-acetyltransferase activity	37
+GO:0008081	MF	phosphoric diester hydrolase activity	50
+GO:0008083	MF	growth factor activity	52
+GO:0008092	MF	cytoskeletal protein binding	166
+GO:0008093	MF	cytoskeletal anchor activity	3
+GO:0008094	MF	DNA-dependent ATPase activity	4
+GO:0008097	MF	5S rRNA binding	2
+GO:0008104	BP	protein localization	114
+GO:0008107	MF	galactoside 2-alpha-L-fucosyltransferase activity	2
+GO:0008108	MF	UDP-glucose:hexose-1-phosphate uridylyltransferase activity	1
+GO:0008113	MF	peptide-methionine (S)-S-oxide reductase activity	2
+GO:0008121	MF	ubiquinol-cytochrome-c reductase activity	1
+GO:0008124	MF	4-alpha-hydroxytetrahydrobiopterin dehydratase activity	2
+GO:0008131	MF	primary amine oxidase activity	3
+GO:0008134	MF	transcription factor binding	16
+GO:0008135	MF	translation factor activity, RNA binding	40
+GO:0008137	MF	NADH dehydrogenase (ubiquinone) activity	9
+GO:0008140	MF	cAMP response element binding protein binding	3
+GO:0008146	MF	sulfotransferase activity	59
+GO:0008150	BP	biological_process	5930
+GO:0008152	BP	metabolic process	3054
+GO:0008154	BP	actin polymerization or depolymerization	1
+GO:0008156	BP	negative regulation of DNA replication	1
+GO:0008168	MF	methyltransferase activity	125
+GO:0008170	MF	N-methyltransferase activity	18
+GO:0008171	MF	O-methyltransferase activity	11
+GO:0008172	MF	S-methyltransferase activity	2
+GO:0008173	MF	RNA methyltransferase activity	16
+GO:0008175	MF	tRNA methyltransferase activity	12
+GO:0008176	MF	tRNA (guanine-N7-)-methyltransferase activity	3
+GO:0008180	CC	COP9 signalosome	1
+GO:0008184	MF	glycogen phosphorylase activity	6
+GO:0008190	MF	eukaryotic initiation factor 4E binding	1
+GO:0008191	MF	metalloendopeptidase inhibitor activity	4
+GO:0008192	MF	RNA guanylyltransferase activity	2
+GO:0008193	MF	tRNA guanylyltransferase activity	1
+GO:0008194	MF	UDP-glycosyltransferase activity	36
+GO:0008199	MF	ferric iron binding	6
+GO:0008201	MF	heparin binding	5
+GO:0008202	BP	steroid metabolic process	18
+GO:0008203	BP	cholesterol metabolic process	2
+GO:0008213	BP	protein alkylation	13
+GO:0008215	BP	spermine metabolic process	1
+GO:0008216	BP	spermidine metabolic process	1
+GO:0008217	BP	regulation of blood pressure	1
+GO:0008218	BP	bioluminescence	2
+GO:0008219	BP	cell death	10
+GO:0008233	MF	peptidase activity	364
+GO:0008234	MF	cysteine-type peptidase activity	114
+GO:0008235	MF	metalloexopeptidase activity	21
+GO:0008236	MF	serine-type peptidase activity	109
+GO:0008237	MF	metallopeptidase activity	123
+GO:0008238	MF	exopeptidase activity	31
+GO:0008241	MF	peptidyl-dipeptidase activity	1
+GO:0008250	CC	oligosaccharyltransferase complex	2
+GO:0008251	MF	tRNA-specific adenosine deaminase activity	4
+GO:0008252	MF	nucleotidase activity	6
+GO:0008253	MF	5'-nucleotidase activity	6
+GO:0008270	MF	zinc ion binding	458
+GO:0008272	BP	sulfate transport	8
+GO:0008276	MF	protein methyltransferase activity	18
+GO:0008277	BP	regulation of G protein-coupled receptor signaling pathway	3
+GO:0008284	BP	positive regulation of cell population proliferation	2
+GO:0008287	CC	protein serine/threonine phosphatase complex	7
+GO:0008289	MF	lipid binding	174
+GO:0008290	CC	F-actin capping protein complex	2
+GO:0008295	BP	spermidine biosynthetic process	1
+GO:0008297	MF	single-stranded DNA exodeoxyribonuclease activity	1
+GO:0008299	BP	isoprenoid biosynthetic process	6
+GO:0008308	MF	voltage-gated anion channel activity	9
+GO:0008312	MF	7S RNA binding	5
+GO:0008318	MF	protein prenyltransferase activity	3
+GO:0008324	MF	cation transmembrane transporter activity	140
+GO:0008343	BP	adult feeding behavior	5
+GO:0008360	BP	regulation of cell shape	4
+GO:0008361	BP	regulation of cell size	18
+GO:0008373	MF	sialyltransferase activity	24
+GO:0008374	MF	O-acyltransferase activity	2
+GO:0008375	MF	acetylglucosaminyltransferase activity	10
+GO:0008376	MF	acetylgalactosaminyltransferase activity	10
+GO:0008380	BP	RNA splicing	17
+GO:0008384	MF	IkappaB kinase activity	2
+GO:0008408	MF	3'-5' exonuclease activity	6
+GO:0008409	MF	5'-3' exonuclease activity	1
+GO:0008410	MF	CoA-transferase activity	3
+GO:0008417	MF	fucosyltransferase activity	10
+GO:0008418	MF	protein-N-terminal asparagine amidohydrolase activity	1
+GO:0008430	MF	selenium binding	1
+GO:0008437	MF	thyrotropin-releasing hormone activity	1
+GO:0008443	MF	phosphofructokinase activity	6
+GO:0008452	MF	RNA ligase activity	2
+GO:0008455	MF	alpha-1,6-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity	1
+GO:0008483	MF	transaminase activity	6
+GO:0008484	MF	sulfuric ester hydrolase activity	14
+GO:0008488	MF	gamma-glutamyl carboxylase activity	2
+GO:0008509	MF	anion transmembrane transporter activity	26
+GO:0008519	MF	ammonium transmembrane transporter activity	3
+GO:0008521	MF	acetyl-CoA transmembrane transporter activity	3
+GO:0008528	MF	G protein-coupled peptide receptor activity	9
+GO:0008531	MF	riboflavin kinase activity	1
+GO:0008534	MF	oxidized purine nucleobase lesion DNA N-glycosylase activity	1
+GO:0008535	BP	respiratory chain complex IV assembly	1
+GO:0008537	CC	proteasome activator complex	3
+GO:0008541	CC	proteasome regulatory particle, lid subcomplex	1
+GO:0008569	MF	ATP-dependent microtubule motor activity, minus-end-directed	17
+GO:0008592	BP	regulation of Toll signaling pathway	2
+GO:0008610	BP	lipid biosynthetic process	62
+GO:0008612	BP	peptidyl-lysine modification to peptidyl-hypusine	1
+GO:0008637	BP	apoptotic mitochondrial changes	1
+GO:0008641	MF	ubiquitin-like modifier activating enzyme activity	10
+GO:0008643	BP	carbohydrate transport	2
+GO:0008649	MF	rRNA methyltransferase activity	3
+GO:0008652	BP	cellular amino acid biosynthetic process	9
+GO:0008654	BP	phospholipid biosynthetic process	25
+GO:0008661	MF	1-deoxy-D-xylulose-5-phosphate synthase activity	1
+GO:0008705	MF	methionine synthase activity	1
+GO:0008716	MF	D-alanine-D-alanine ligase activity	5
+GO:0008745	MF	N-acetylmuramoyl-L-alanine amidase activity	4
+GO:0008757	MF	S-adenosylmethionine-dependent methyltransferase activity	38
+GO:0008897	MF	holo-[acyl-carrier-protein] synthase activity	1
+GO:0008942	MF	nitrite reductase [NAD(P)H] activity	5
+GO:0008963	MF	phospho-N-acetylmuramoyl-pentapeptide-transferase activity	1
+GO:0009007	MF	site-specific DNA-methyltransferase (adenine-specific) activity	3
+GO:0009008	MF	DNA-methyltransferase activity	3
+GO:0009052	BP	pentose-phosphate shunt, non-oxidative branch	1
+GO:0009055	MF	electron transfer activity	19
+GO:0009056	BP	catabolic process	127
+GO:0009057	BP	macromolecule catabolic process	65
+GO:0009058	BP	biosynthetic process	494
+GO:0009059	BP	macromolecule biosynthetic process	277
+GO:0009060	BP	aerobic respiration	1
+GO:0009062	BP	fatty acid catabolic process	5
+GO:0009063	BP	cellular amino acid catabolic process	5
+GO:0009064	BP	glutamine family amino acid metabolic process	6
+GO:0009066	BP	aspartate family amino acid metabolic process	6
+GO:0009067	BP	aspartate family amino acid biosynthetic process	5
+GO:0009069	BP	serine family amino acid metabolic process	6
+GO:0009071	BP	serine family amino acid catabolic process	1
+GO:0009072	BP	aromatic amino acid family metabolic process	3
+GO:0009074	BP	aromatic amino acid family catabolic process	2
+GO:0009084	BP	glutamine family amino acid biosynthetic process	4
+GO:0009086	BP	methionine biosynthetic process	1
+GO:0009092	BP	homoserine metabolic process	5
+GO:0009100	BP	glycoprotein metabolic process	1
+GO:0009110	BP	vitamin biosynthetic process	1
+GO:0009112	BP	nucleobase metabolic process	2
+GO:0009113	BP	purine nucleobase biosynthetic process	1
+GO:0009116	BP	nucleoside metabolic process	15
+GO:0009117	BP	nucleotide metabolic process	75
+GO:0009119	BP	ribonucleoside metabolic process	3
+GO:0009123	BP	nucleoside monophosphate metabolic process	29
+GO:0009124	BP	nucleoside monophosphate biosynthetic process	13
+GO:0009126	BP	purine nucleoside monophosphate metabolic process	29
+GO:0009127	BP	purine nucleoside monophosphate biosynthetic process	13
+GO:0009132	BP	nucleoside diphosphate metabolic process	13
+GO:0009135	BP	purine nucleoside diphosphate metabolic process	13
+GO:0009141	BP	nucleoside triphosphate metabolic process	30
+GO:0009142	BP	nucleoside triphosphate biosynthetic process	11
+GO:0009143	BP	nucleoside triphosphate catabolic process	2
+GO:0009144	BP	purine nucleoside triphosphate metabolic process	28
+GO:0009145	BP	purine nucleoside triphosphate biosynthetic process	11
+GO:0009150	BP	purine ribonucleotide metabolic process	49
+GO:0009152	BP	purine ribonucleotide biosynthetic process	31
+GO:0009156	BP	ribonucleoside monophosphate biosynthetic process	13
+GO:0009161	BP	ribonucleoside monophosphate metabolic process	29
+GO:0009163	BP	nucleoside biosynthetic process	1
+GO:0009164	BP	nucleoside catabolic process	1
+GO:0009165	BP	nucleotide biosynthetic process	51
+GO:0009166	BP	nucleotide catabolic process	3
+GO:0009167	BP	purine ribonucleoside monophosphate metabolic process	29
+GO:0009168	BP	purine ribonucleoside monophosphate biosynthetic process	13
+GO:0009179	BP	purine ribonucleoside diphosphate metabolic process	13
+GO:0009185	BP	ribonucleoside diphosphate metabolic process	13
+GO:0009187	BP	cyclic nucleotide metabolic process	18
+GO:0009190	BP	cyclic nucleotide biosynthetic process	17
+GO:0009199	BP	ribonucleoside triphosphate metabolic process	28
+GO:0009201	BP	ribonucleoside triphosphate biosynthetic process	11
+GO:0009205	BP	purine ribonucleoside triphosphate metabolic process	28
+GO:0009206	BP	purine ribonucleoside triphosphate biosynthetic process	11
+GO:0009214	BP	cyclic nucleotide catabolic process	1
+GO:0009225	BP	nucleotide-sugar metabolic process	3
+GO:0009226	BP	nucleotide-sugar biosynthetic process	3
+GO:0009229	BP	thiamine diphosphate biosynthetic process	1
+GO:0009231	BP	riboflavin biosynthetic process	1
+GO:0009235	BP	cobalamin metabolic process	2
+GO:0009247	BP	glycolipid biosynthetic process	15
+GO:0009250	BP	glucan biosynthetic process	2
+GO:0009253	BP	peptidoglycan catabolic process	4
+GO:0009259	BP	ribonucleotide metabolic process	49
+GO:0009260	BP	ribonucleotide biosynthetic process	31
+GO:0009262	BP	deoxyribonucleotide metabolic process	2
+GO:0009263	BP	deoxyribonucleotide biosynthetic process	1
+GO:0009264	BP	deoxyribonucleotide catabolic process	1
+GO:0009267	BP	cellular response to starvation	6
+GO:0009298	BP	GDP-mannose biosynthetic process	3
+GO:0009306	BP	protein secretion	2
+GO:0009308	BP	amine metabolic process	5
+GO:0009309	BP	amine biosynthetic process	1
+GO:0009311	BP	oligosaccharide metabolic process	3
+GO:0009312	BP	oligosaccharide biosynthetic process	2
+GO:0009314	BP	response to radiation	2
+GO:0009341	CC	beta-galactosidase complex	3
+GO:0009374	MF	biotin binding	1
+GO:0009378	MF	four-way junction helicase activity	23
+GO:0009395	BP	phospholipid catabolic process	2
+GO:0009396	BP	folic acid-containing compound biosynthetic process	2
+GO:0009405	BP	pathogenesis	1
+GO:0009411	BP	response to UV	1
+GO:0009416	BP	response to light stimulus	1
+GO:0009435	BP	NAD biosynthetic process	2
+GO:0009451	BP	RNA modification	42
+GO:0009452	BP	7-methylguanosine RNA capping	5
+GO:0009605	BP	response to external stimulus	8
+GO:0009607	BP	response to biotic stimulus	2
+GO:0009615	BP	response to virus	1
+GO:0009628	BP	response to abiotic stimulus	2
+GO:0009653	BP	anatomical structure morphogenesis	1
+GO:0009719	BP	response to endogenous stimulus	1
+GO:0009755	BP	hormone-mediated signaling pathway	5
+GO:0009758	BP	carbohydrate utilization	1
+GO:0009877	BP	nodulation	1
+GO:0009888	BP	tissue development	2
+GO:0009889	BP	regulation of biosynthetic process	540
+GO:0009890	BP	negative regulation of biosynthetic process	11
+GO:0009891	BP	positive regulation of biosynthetic process	19
+GO:0009892	BP	negative regulation of metabolic process	23
+GO:0009893	BP	positive regulation of metabolic process	30
+GO:0009894	BP	regulation of catabolic process	4
+GO:0009966	BP	regulation of signal transduction	72
+GO:0009967	BP	positive regulation of signal transduction	12
+GO:0009968	BP	negative regulation of signal transduction	10
+GO:0009972	BP	cytidine deamination	1
+GO:0009975	MF	cyclase activity	11
+GO:0009982	MF	pseudouridine synthase activity	10
+GO:0009987	BP	cellular process	3242
+GO:0009991	BP	response to extracellular stimulus	6
+GO:0010008	CC	endosome membrane	1
+GO:0010033	BP	response to organic substance	5
+GO:0010035	BP	response to inorganic substance	2
+GO:0010038	BP	response to metal ion	2
+GO:0010142	BP	farnesyl diphosphate biosynthetic process, mevalonate pathway	1
+GO:0010181	MF	FMN binding	6
+GO:0010212	BP	response to ionizing radiation	1
+GO:0010243	BP	response to organonitrogen compound	1
+GO:0010257	BP	NADH dehydrogenase complex assembly	3
+GO:0010309	MF	acireductone dioxygenase [iron(II)-requiring] activity	1
+GO:0010340	MF	carboxyl-O-methyltransferase activity	3
+GO:0010387	BP	COP9 signalosome assembly	1
+GO:0010389	BP	regulation of G2/M transition of mitotic cell cycle	1
+GO:0010466	BP	negative regulation of peptidase activity	1
+GO:0010468	BP	regulation of gene expression	552
+GO:0010498	BP	proteasomal protein catabolic process	15
+GO:0010506	BP	regulation of autophagy	3
+GO:0010556	BP	regulation of macromolecule biosynthetic process	540
+GO:0010557	BP	positive regulation of macromolecule biosynthetic process	19
+GO:0010558	BP	negative regulation of macromolecule biosynthetic process	11
+GO:0010562	BP	positive regulation of phosphorus metabolic process	8
+GO:0010563	BP	negative regulation of phosphorus metabolic process	2
+GO:0010564	BP	regulation of cell cycle process	11
+GO:0010604	BP	positive regulation of macromolecule metabolic process	30
+GO:0010605	BP	negative regulation of macromolecule metabolic process	22
+GO:0010608	BP	posttranscriptional regulation of gene expression	9
+GO:0010628	BP	positive regulation of gene expression	19
+GO:0010629	BP	negative regulation of gene expression	18
+GO:0010638	BP	positive regulation of organelle organization	5
+GO:0010639	BP	negative regulation of organelle organization	13
+GO:0010646	BP	regulation of cell communication	72
+GO:0010647	BP	positive regulation of cell communication	12
+GO:0010648	BP	negative regulation of cell communication	10
+GO:0010720	BP	positive regulation of cell development	2
+GO:0010721	BP	negative regulation of cell development	1
+GO:0010755	BP	regulation of plasminogen activation	1
+GO:0010756	BP	positive regulation of plasminogen activation	1
+GO:0010769	BP	regulation of cell morphogenesis involved in differentiation	1
+GO:0010771	BP	negative regulation of cell morphogenesis involved in differentiation	1
+GO:0010810	BP	regulation of cell-substrate adhesion	1
+GO:0010812	BP	negative regulation of cell-substrate adhesion	1
+GO:0010821	BP	regulation of mitochondrion organization	1
+GO:0010822	BP	positive regulation of mitochondrion organization	1
+GO:0010824	BP	regulation of centrosome duplication	2
+GO:0010826	BP	negative regulation of centrosome duplication	2
+GO:0010833	BP	telomere maintenance via telomere lengthening	1
+GO:0010921	BP	regulation of phosphatase activity	7
+GO:0010923	BP	negative regulation of phosphatase activity	2
+GO:0010941	BP	regulation of cell death	59
+GO:0010942	BP	positive regulation of cell death	7
+GO:0010948	BP	negative regulation of cell cycle process	4
+GO:0010950	BP	positive regulation of endopeptidase activity	2
+GO:0010951	BP	negative regulation of endopeptidase activity	1
+GO:0010952	BP	positive regulation of peptidase activity	2
+GO:0010954	BP	positive regulation of protein processing	1
+GO:0010959	BP	regulation of metal ion transport	1
+GO:0010965	BP	regulation of mitotic sister chromatid separation	3
+GO:0010970	BP	transport along microtubule	1
+GO:0010972	BP	negative regulation of G2/M transition of mitotic cell cycle	1
+GO:0012501	BP	programmed cell death	10
+GO:0012506	CC	vesicle membrane	1
+GO:0015002	MF	heme-copper terminal oxidase activity	10
+GO:0015016	MF	[heparan sulfate]-glucosamine N-sulfotransferase activity	4
+GO:0015018	MF	galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity	6
+GO:0015020	MF	glucuronosyltransferase activity	6
+GO:0015026	MF	coreceptor activity	3
+GO:0015031	BP	protein transport	109
+GO:0015035	MF	protein disulfide oxidoreductase activity	8
+GO:0015036	MF	disulfide oxidoreductase activity	8
+GO:0015074	BP	DNA integration	236
+GO:0015075	MF	ion transmembrane transporter activity	315
+GO:0015077	MF	monovalent inorganic cation transmembrane transporter activity	74
+GO:0015078	MF	proton transmembrane transporter activity	44
+GO:0015079	MF	potassium ion transmembrane transporter activity	16
+GO:0015081	MF	sodium ion transmembrane transporter activity	14
+GO:0015085	MF	calcium ion transmembrane transporter activity	19
+GO:0015095	MF	magnesium ion transmembrane transporter activity	6
+GO:0015098	MF	molybdate ion transmembrane transporter activity	1
+GO:0015103	MF	inorganic anion transmembrane transporter activity	20
+GO:0015105	MF	arsenite transmembrane transporter activity	1
+GO:0015108	MF	chloride transmembrane transporter activity	9
+GO:0015114	MF	phosphate ion transmembrane transporter activity	1
+GO:0015116	MF	sulfate transmembrane transporter activity	8
+GO:0015144	MF	carbohydrate transmembrane transporter activity	2
+GO:0015165	MF	pyrimidine nucleotide-sugar transmembrane transporter activity	8
+GO:0015204	MF	urea transmembrane transporter activity	1
+GO:0015232	MF	heme transmembrane transporter activity	2
+GO:0015267	MF	channel activity	208
+GO:0015269	MF	calcium-activated potassium channel activity	6
+GO:0015276	MF	ligand-gated ion channel activity	55
+GO:0015278	MF	calcium-release channel activity	2
+GO:0015291	MF	secondary active transmembrane transporter activity	28
+GO:0015293	MF	symporter activity	8
+GO:0015294	MF	solute:cation symporter activity	1
+GO:0015295	MF	solute:proton symporter activity	1
+GO:0015297	MF	antiporter activity	18
+GO:0015298	MF	solute:cation antiporter activity	14
+GO:0015299	MF	solute:proton antiporter activity	14
+GO:0015399	MF	primary active transmembrane transporter activity	53
+GO:0015629	CC	actin cytoskeleton	3
+GO:0015630	CC	microtubule cytoskeleton	4
+GO:0015631	MF	tubulin binding	79
+GO:0015662	MF	ion transmembrane transporter activity, phosphorylative mechanism	4
+GO:0015672	BP	monovalent inorganic cation transport	61
+GO:0015689	BP	molybdate ion transport	1
+GO:0015693	BP	magnesium ion transport	6
+GO:0015696	BP	ammonium transport	3
+GO:0015698	BP	inorganic anion transport	22
+GO:0015700	BP	arsenite transport	1
+GO:0015711	BP	organic anion transport	21
+GO:0015718	BP	monocarboxylic acid transport	10
+GO:0015721	BP	bile acid and bile salt transport	1
+GO:0015748	BP	organophosphate ester transport	7
+GO:0015780	BP	nucleotide-sugar transmembrane transport	8
+GO:0015833	BP	peptide transport	114
+GO:0015840	BP	urea transport	1
+GO:0015849	BP	organic acid transport	12
+GO:0015850	BP	organic hydroxy compound transport	2
+GO:0015858	BP	nucleoside transport	5
+GO:0015886	BP	heme transport	2
+GO:0015889	BP	cobalamin transport	3
+GO:0015908	BP	fatty acid transport	7
+GO:0015909	BP	long-chain fatty acid transport	7
+GO:0015914	BP	phospholipid transport	7
+GO:0015918	BP	sterol transport	1
+GO:0015919	BP	peroxisomal membrane transport	1
+GO:0015923	MF	mannosidase activity	12
+GO:0015924	MF	mannosyl-oligosaccharide mannosidase activity	7
+GO:0015925	MF	galactosidase activity	3
+GO:0015927	MF	trehalase activity	1
+GO:0015928	MF	fucosidase activity	3
+GO:0015929	MF	hexosaminidase activity	2
+GO:0015930	MF	glutamate synthase activity	1
+GO:0015931	BP	nucleobase-containing compound transport	17
+GO:0015932	MF	nucleobase-containing compound transmembrane transporter activity	13
+GO:0015934	CC	large ribosomal subunit	5
+GO:0015935	CC	small ribosomal subunit	2
+GO:0015936	BP	coenzyme A metabolic process	8
+GO:0015937	BP	coenzyme A biosynthetic process	7
+GO:0015977	BP	carbon fixation	1
+GO:0015980	BP	energy derivation by oxidation of organic compounds	3
+GO:0015985	BP	energy coupled proton transport, down electrochemical gradient	11
+GO:0015986	BP	ATP synthesis coupled proton transport	11
+GO:0016010	CC	dystrophin-associated glycoprotein complex	1
+GO:0016012	CC	sarcoglycan complex	7
+GO:0016020	CC	membrane	871
+GO:0016021	CC	integral component of membrane	1038
+GO:0016032	BP	viral process	6
+GO:0016042	BP	lipid catabolic process	18
+GO:0016043	BP	cellular component organization	319
+GO:0016050	BP	vesicle organization	1
+GO:0016051	BP	carbohydrate biosynthetic process	10
+GO:0016052	BP	carbohydrate catabolic process	14
+GO:0016053	BP	organic acid biosynthetic process	15
+GO:0016054	BP	organic acid catabolic process	10
+GO:0016055	BP	Wnt signaling pathway	23
+GO:0016070	BP	RNA metabolic process	293
+GO:0016071	BP	mRNA metabolic process	48
+GO:0016072	BP	rRNA metabolic process	29
+GO:0016073	BP	snRNA metabolic process	1
+GO:0016114	BP	terpenoid biosynthetic process	2
+GO:0016125	BP	sterol metabolic process	5
+GO:0016126	BP	sterol biosynthetic process	4
+GO:0016151	MF	nickel cation binding	1
+GO:0016180	BP	snRNA processing	1
+GO:0016192	BP	vesicle-mediated transport	98
+GO:0016197	BP	endosomal transport	4
+GO:0016209	MF	antioxidant activity	27
+GO:0016211	MF	ammonia ligase activity	2
+GO:0016226	BP	iron-sulfur cluster assembly	4
+GO:0016229	MF	steroid dehydrogenase activity	12
+GO:0016247	MF	channel regulator activity	2
+GO:0016255	BP	attachment of GPI anchor to protein	2
+GO:0016272	CC	prefoldin complex	5
+GO:0016278	MF	lysine N-methyltransferase activity	15
+GO:0016279	MF	protein-lysine N-methyltransferase activity	15
+GO:0016286	MF	small conductance calcium-activated potassium channel activity	3
+GO:0016289	MF	CoA hydrolase activity	15
+GO:0016298	MF	lipase activity	39
+GO:0016301	MF	kinase activity	567
+GO:0016307	MF	phosphatidylinositol phosphate kinase activity	8
+GO:0016310	BP	phosphorylation	507
+GO:0016311	BP	dephosphorylation	65
+GO:0016407	MF	acetyltransferase activity	39
+GO:0016409	MF	palmitoyltransferase activity	22
+GO:0016410	MF	N-acyltransferase activity	44
+GO:0016421	MF	CoA carboxylase activity	3
+GO:0016423	MF	tRNA (guanine) methyltransferase activity	6
+GO:0016426	MF	tRNA (adenine) methyltransferase activity	6
+GO:0016429	MF	tRNA (adenine-N1-)-methyltransferase activity	6
+GO:0016435	MF	rRNA (guanine) methyltransferase activity	1
+GO:0016459	CC	myosin complex	60
+GO:0016462	MF	pyrophosphatase activity	589
+GO:0016469	CC	proton-transporting two-sector ATPase complex	2
+GO:0016471	CC	vacuolar proton-transporting V-type ATPase complex	2
+GO:0016480	BP	negative regulation of transcription by RNA polymerase III	1
+GO:0016482	BP	cytosolic transport	1
+GO:0016485	BP	protein processing	10
+GO:0016491	MF	oxidoreductase activity	475
+GO:0016499	MF	orexin receptor activity	1
+GO:0016533	CC	protein kinase 5 complex	3
+GO:0016538	MF	cyclin-dependent protein serine/threonine kinase regulator activity	8
+GO:0016540	BP	protein autoprocessing	3
+GO:0016556	BP	mRNA modification	1
+GO:0016559	BP	peroxisome fission	4
+GO:0016560	BP	protein import into peroxisome matrix, docking	1
+GO:0016567	BP	protein ubiquitination	27
+GO:0016569	BP	covalent chromatin modification	22
+GO:0016570	BP	histone modification	22
+GO:0016571	BP	histone methylation	8
+GO:0016573	BP	histone acetylation	8
+GO:0016575	BP	histone deacetylation	3
+GO:0016579	BP	protein deubiquitination	56
+GO:0016591	CC	RNA polymerase II, holoenzyme	1
+GO:0016592	CC	mediator complex	26
+GO:0016593	CC	Cdc73/Paf1 complex	3
+GO:0016597	MF	amino acid binding	3
+GO:0016598	BP	protein arginylation	1
+GO:0016604	CC	nuclear body	3
+GO:0016607	CC	nuclear speck	3
+GO:0016614	MF	oxidoreductase activity, acting on CH-OH group of donors	73
+GO:0016615	MF	malate dehydrogenase activity	3
+GO:0016616	MF	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	69
+GO:0016620	MF	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	6
+GO:0016624	MF	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor	8
+GO:0016627	MF	oxidoreductase activity, acting on the CH-CH group of donors	41
+GO:0016628	MF	oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	4
+GO:0016634	MF	oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor	6
+GO:0016638	MF	oxidoreductase activity, acting on the CH-NH2 group of donors	11
+GO:0016641	MF	oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor	9
+GO:0016642	MF	oxidoreductase activity, acting on the CH-NH2 group of donors, disulfide as acceptor	1
+GO:0016645	MF	oxidoreductase activity, acting on the CH-NH group of donors	9
+GO:0016646	MF	oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor	9
+GO:0016651	MF	oxidoreductase activity, acting on NAD(P)H	12
+GO:0016655	MF	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	9
+GO:0016661	MF	oxidoreductase activity, acting on other nitrogenous compounds as donors	5
+GO:0016667	MF	oxidoreductase activity, acting on a sulfur group of donors	19
+GO:0016670	MF	oxidoreductase activity, acting on a sulfur group of donors, oxygen as acceptor	6
+GO:0016671	MF	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	5
+GO:0016675	MF	oxidoreductase activity, acting on a heme group of donors	9
+GO:0016676	MF	oxidoreductase activity, acting on a heme group of donors, oxygen as acceptor	9
+GO:0016679	MF	oxidoreductase activity, acting on diphenols and related substances as donors	1
+GO:0016681	MF	oxidoreductase activity, acting on diphenols and related substances as donors, cytochrome as acceptor	1
+GO:0016684	MF	oxidoreductase activity, acting on peroxide as acceptor	18
+GO:0016701	MF	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	14
+GO:0016702	MF	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	12
+GO:0016703	MF	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of one atom of oxygen (internal monooxygenases or internal mixed function oxidases)	2
+GO:0016705	MF	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	116
+GO:0016706	MF	2-oxoglutarate-dependent dioxygenase activity	4
+GO:0016709	MF	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	17
+GO:0016714	MF	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen	4
+GO:0016715	MF	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced ascorbate as one donor, and incorporation of one atom of oxygen	3
+GO:0016721	MF	oxidoreductase activity, acting on superoxide radicals as acceptor	2
+GO:0016725	MF	oxidoreductase activity, acting on CH or CH2 groups	1
+GO:0016728	MF	oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor	1
+GO:0016740	MF	transferase activity	1253
+GO:0016741	MF	transferase activity, transferring one-carbon groups	133
+GO:0016742	MF	hydroxymethyl-, formyl- and related transferase activity	5
+GO:0016743	MF	carboxyl- or carbamoyltransferase activity	3
+GO:0016744	MF	transferase activity, transferring aldehyde or ketonic groups	1
+GO:0016746	MF	transferase activity, transferring acyl groups	112
+GO:0016747	MF	transferase activity, transferring acyl groups other than amino-acyl groups	81
+GO:0016748	MF	succinyltransferase activity	2
+GO:0016749	MF	N-succinyltransferase activity	2
+GO:0016755	MF	transferase activity, transferring amino-acyl groups	7
+GO:0016757	MF	transferase activity, transferring glycosyl groups	193
+GO:0016758	MF	transferase activity, transferring hexosyl groups	90
+GO:0016763	MF	transferase activity, transferring pentosyl groups	42
+GO:0016765	MF	transferase activity, transferring alkyl or aryl (other than methyl) groups	12
+GO:0016769	MF	transferase activity, transferring nitrogenous groups	6
+GO:0016772	MF	transferase activity, transferring phosphorus-containing groups	659
+GO:0016773	MF	phosphotransferase activity, alcohol group as acceptor	553
+GO:0016774	MF	phosphotransferase activity, carboxyl group as acceptor	2
+GO:0016776	MF	phosphotransferase activity, phosphate group as acceptor	4
+GO:0016778	MF	diphosphotransferase activity	5
+GO:0016779	MF	nucleotidyltransferase activity	55
+GO:0016780	MF	phosphotransferase activity, for other substituted phosphate groups	8
+GO:0016782	MF	transferase activity, transferring sulfur-containing groups	64
+GO:0016787	MF	hydrolase activity	1529
+GO:0016788	MF	hydrolase activity, acting on ester bonds	355
+GO:0016790	MF	thiolester hydrolase activity	15
+GO:0016791	MF	phosphatase activity	92
+GO:0016796	MF	exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters	2
+GO:0016798	MF	hydrolase activity, acting on glycosyl bonds	60
+GO:0016799	MF	hydrolase activity, hydrolyzing N-glycosyl compounds	4
+GO:0016805	MF	dipeptidase activity	3
+GO:0016810	MF	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	25
+GO:0016811	MF	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	10
+GO:0016813	MF	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines	3
+GO:0016814	MF	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines	12
+GO:0016817	MF	hydrolase activity, acting on acid anhydrides	590
+GO:0016818	MF	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	589
+GO:0016822	MF	hydrolase activity, acting on acid carbon-carbon bonds	1
+GO:0016823	MF	hydrolase activity, acting on acid carbon-carbon bonds, in ketonic substances	1
+GO:0016829	MF	lyase activity	57
+GO:0016830	MF	carbon-carbon lyase activity	23
+GO:0016831	MF	carboxy-lyase activity	20
+GO:0016832	MF	aldehyde-lyase activity	3
+GO:0016835	MF	carbon-oxygen lyase activity	7
+GO:0016836	MF	hydro-lyase activity	5
+GO:0016840	MF	carbon-nitrogen lyase activity	2
+GO:0016843	MF	amine-lyase activity	2
+GO:0016844	MF	strictosidine synthase activity	2
+GO:0016846	MF	carbon-sulfur lyase activity	2
+GO:0016849	MF	phosphorus-oxygen lyase activity	11
+GO:0016853	MF	isomerase activity	92
+GO:0016854	MF	racemase and epimerase activity	1
+GO:0016857	MF	racemase and epimerase activity, acting on carbohydrates and derivatives	1
+GO:0016859	MF	cis-trans isomerase activity	36
+GO:0016860	MF	intramolecular oxidoreductase activity	6
+GO:0016861	MF	intramolecular oxidoreductase activity, interconverting aldoses and ketoses	5
+GO:0016864	MF	intramolecular oxidoreductase activity, transposing S-S bonds	1
+GO:0016866	MF	intramolecular transferase activity	21
+GO:0016868	MF	intramolecular transferase activity, phosphotransferases	10
+GO:0016872	MF	intramolecular lyase activity	4
+GO:0016874	MF	ligase activity	84
+GO:0016875	MF	ligase activity, forming carbon-oxygen bonds	43
+GO:0016877	MF	ligase activity, forming carbon-sulfur bonds	10
+GO:0016879	MF	ligase activity, forming carbon-nitrogen bonds	24
+GO:0016880	MF	acid-ammonia (or amide) ligase activity	2
+GO:0016881	MF	acid-amino acid ligase activity	9
+GO:0016884	MF	carbon-nitrogen ligase activity, with glutamine as amido-N-donor	5
+GO:0016885	MF	ligase activity, forming carbon-carbon bonds	3
+GO:0016886	MF	ligase activity, forming phosphoric ester bonds	5
+GO:0016887	MF	ATPase activity	245
+GO:0016889	MF	endodeoxyribonuclease activity, producing 3'-phosphomonoesters	2
+GO:0016891	MF	endoribonuclease activity, producing 5'-phosphomonoesters	35
+GO:0016892	MF	endoribonuclease activity, producing 3'-phosphomonoesters	3
+GO:0016893	MF	endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters	35
+GO:0016894	MF	endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 3'-phosphomonoesters	5
+GO:0016895	MF	exodeoxyribonuclease activity, producing 5'-phosphomonoesters	1
+GO:0016896	MF	exoribonuclease activity, producing 5'-phosphomonoesters	1
+GO:0016899	MF	oxidoreductase activity, acting on the CH-OH group of donors, oxygen as acceptor	1
+GO:0016903	MF	oxidoreductase activity, acting on the aldehyde or oxo group of donors	14
+GO:0016929	MF	SUMO-specific protease activity	1
+GO:0016972	MF	thiol oxidase activity	4
+GO:0016973	BP	poly(A)+ mRNA export from nucleus	1
+GO:0016984	MF	ribulose-bisphosphate carboxylase activity	1
+GO:0017004	BP	cytochrome complex assembly	1
+GO:0017015	BP	regulation of transforming growth factor beta receptor signaling pathway	2
+GO:0017022	MF	myosin binding	1
+GO:0017025	MF	TBP-class protein binding	3
+GO:0017038	BP	protein import	9
+GO:0017046	MF	peptide hormone binding	1
+GO:0017053	CC	transcription repressor complex	2
+GO:0017056	MF	structural constituent of nuclear pore	5
+GO:0017069	MF	snRNA binding	2
+GO:0017070	MF	U6 snRNA binding	1
+GO:0017076	MF	purine nucleotide binding	1313
+GO:0017111	MF	nucleoside-triphosphatase activity	581
+GO:0017119	CC	Golgi transport complex	5
+GO:0017121	BP	plasma membrane phospholipid scrambling	6
+GO:0017128	MF	phospholipid scramblase activity	6
+GO:0017134	MF	fibroblast growth factor binding	1
+GO:0017148	BP	negative regulation of translation	1
+GO:0017150	MF	tRNA dihydrouridine synthase activity	5
+GO:0017171	MF	serine hydrolase activity	109
+GO:0017176	MF	phosphatidylinositol N-acetylglucosaminyltransferase activity	3
+GO:0017187	BP	peptidyl-glutamic acid carboxylation	2
+GO:0017196	BP	N-terminal peptidyl-methionine acetylation	1
+GO:0018022	BP	peptidyl-lysine methylation	8
+GO:0018024	MF	histone-lysine N-methyltransferase activity	15
+GO:0018101	BP	protein citrullination	2
+GO:0018130	BP	heterocycle biosynthetic process	160
+GO:0018142	BP	protein-DNA covalent cross-linking	1
+GO:0018143	BP	nucleic acid-protein covalent cross-linking	1
+GO:0018149	BP	peptide cross-linking	4
+GO:0018193	BP	peptidyl-amino acid modification	46
+GO:0018195	BP	peptidyl-arginine modification	2
+GO:0018196	BP	peptidyl-asparagine modification	1
+GO:0018200	BP	peptidyl-glutamic acid modification	2
+GO:0018205	BP	peptidyl-lysine modification	18
+GO:0018206	BP	peptidyl-methionine modification	1
+GO:0018208	BP	peptidyl-proline modification	20
+GO:0018214	BP	protein carboxylation	2
+GO:0018279	BP	protein N-linked glycosylation via asparagine	1
+GO:0018342	BP	protein prenylation	3
+GO:0018393	BP	internal peptidyl-lysine acetylation	9
+GO:0018394	BP	peptidyl-lysine acetylation	9
+GO:0018410	BP	C-terminal protein amino acid modification	3
+GO:0018580	MF	nitronate monooxygenase activity	2
+GO:0019001	MF	guanyl nucleotide binding	282
+GO:0019008	CC	molybdopterin synthase complex	1
+GO:0019048	BP	modulation by virus of host process	2
+GO:0019058	BP	viral life cycle	2
+GO:0019062	BP	virion attachment to host cell	6
+GO:0019069	BP	viral capsid assembly	2
+GO:0019079	BP	viral genome replication	1
+GO:0019104	MF	DNA N-glycosylase activity	3
+GO:0019107	MF	myristoyltransferase activity	2
+GO:0019136	MF	deoxynucleoside kinase activity	1
+GO:0019184	BP	nonribosomal peptide biosynthetic process	4
+GO:0019199	MF	transmembrane receptor protein kinase activity	12
+GO:0019200	MF	carbohydrate kinase activity	6
+GO:0019205	MF	nucleobase-containing compound kinase activity	4
+GO:0019206	MF	nucleoside kinase activity	1
+GO:0019207	MF	kinase regulator activity	16
+GO:0019208	MF	phosphatase regulator activity	12
+GO:0019209	MF	kinase activator activity	5
+GO:0019210	MF	kinase inhibitor activity	6
+GO:0019211	MF	phosphatase activator activity	1
+GO:0019212	MF	phosphatase inhibitor activity	5
+GO:0019219	BP	regulation of nucleobase-containing compound metabolic process	538
+GO:0019220	BP	regulation of phosphate metabolic process	21
+GO:0019221	BP	cytokine-mediated signaling pathway	2
+GO:0019222	BP	regulation of metabolic process	586
+GO:0019229	BP	regulation of vasoconstriction	2
+GO:0019236	BP	response to pheromone	3
+GO:0019238	MF	cyclohydrolase activity	1
+GO:0019239	MF	deaminase activity	16
+GO:0019318	BP	hexose metabolic process	16
+GO:0019319	BP	hexose biosynthetic process	4
+GO:0019346	BP	transsulfuration	5
+GO:0019359	BP	nicotinamide nucleotide biosynthetic process	4
+GO:0019362	BP	pyridine nucleotide metabolic process	18
+GO:0019363	BP	pyridine nucleotide biosynthetic process	4
+GO:0019374	BP	galactolipid metabolic process	1
+GO:0019376	BP	galactolipid catabolic process	1
+GO:0019377	BP	glycolipid catabolic process	1
+GO:0019395	BP	fatty acid oxidation	5
+GO:0019400	BP	alditol metabolic process	1
+GO:0019438	BP	aromatic compound biosynthetic process	155
+GO:0019439	BP	aromatic compound catabolic process	19
+GO:0019538	BP	protein metabolic process	1373
+GO:0019637	BP	organophosphate metabolic process	142
+GO:0019673	BP	GDP-mannose metabolic process	3
+GO:0019674	BP	NAD metabolic process	2
+GO:0019682	BP	glyceraldehyde-3-phosphate metabolic process	2
+GO:0019693	BP	ribose phosphate metabolic process	51
+GO:0019720	BP	Mo-molybdopterin cofactor metabolic process	2
+GO:0019722	BP	calcium-mediated signaling	3
+GO:0019725	BP	cellular homeostasis	8
+GO:0019751	BP	polyol metabolic process	16
+GO:0019752	BP	carboxylic acid metabolic process	119
+GO:0019755	BP	one-carbon compound transport	1
+GO:0019773	CC	proteasome core complex, alpha-subunit complex	8
+GO:0019781	MF	NEDD8 activating enzyme activity	1
+GO:0019783	MF	ubiquitin-like protein-specific protease activity	63
+GO:0019787	MF	ubiquitin-like protein transferase activity	71
+GO:0019798	MF	procollagen-proline dioxygenase activity	3
+GO:0019799	MF	tubulin N-acetyltransferase activity	1
+GO:0019829	MF	ATPase-coupled cation transmembrane transporter activity	9
+GO:0019838	MF	growth factor binding	14
+GO:0019842	MF	vitamin binding	44
+GO:0019843	MF	rRNA binding	14
+GO:0019856	BP	pyrimidine nucleobase biosynthetic process	1
+GO:0019866	CC	organelle inner membrane	10
+GO:0019867	CC	outer membrane	8
+GO:0019882	BP	antigen processing and presentation	7
+GO:0019887	MF	protein kinase regulator activity	12
+GO:0019888	MF	protein phosphatase regulator activity	11
+GO:0019899	MF	enzyme binding	58
+GO:0019900	MF	kinase binding	10
+GO:0019901	MF	protein kinase binding	10
+GO:0019902	MF	phosphatase binding	6
+GO:0019903	MF	protein phosphatase binding	3
+GO:0019904	MF	protein domain specific binding	8
+GO:0019905	MF	syntaxin binding	8
+GO:0019911	MF	structural constituent of myelin sheath	1
+GO:0019915	BP	lipid storage	2
+GO:0019932	BP	second-messenger-mediated signaling	3
+GO:0019941	BP	modification-dependent protein catabolic process	47
+GO:0019955	MF	cytokine binding	1
+GO:0020037	MF	heme binding	115
+GO:0021549	BP	cerebellum development	1
+GO:0022402	BP	cell cycle process	22
+GO:0022406	BP	membrane docking	4
+GO:0022407	BP	regulation of cell-cell adhesion	1
+GO:0022408	BP	negative regulation of cell-cell adhesion	1
+GO:0022410	BP	circadian sleep/wake cycle process	1
+GO:0022411	BP	cellular component disassembly	4
+GO:0022412	BP	cellular process involved in reproduction in multicellular organism	1
+GO:0022414	BP	reproductive process	8
+GO:0022603	BP	regulation of anatomical structure morphogenesis	8
+GO:0022604	BP	regulation of cell morphogenesis	5
+GO:0022607	BP	cellular component assembly	139
+GO:0022610	BP	biological adhesion	249
+GO:0022613	BP	ribonucleoprotein complex biogenesis	12
+GO:0022615	BP	protein to membrane docking	1
+GO:0022618	BP	ribonucleoprotein complex assembly	7
+GO:0022803	MF	passive transmembrane transporter activity	208
+GO:0022804	MF	active transmembrane transporter activity	81
+GO:0022824	MF	transmitter-gated ion channel activity	16
+GO:0022832	MF	voltage-gated channel activity	27
+GO:0022834	MF	ligand-gated channel activity	55
+GO:0022835	MF	transmitter-gated channel activity	16
+GO:0022836	MF	gated channel activity	88
+GO:0022839	MF	ion gated channel activity	6
+GO:0022843	MF	voltage-gated cation channel activity	12
+GO:0022853	MF	active ion transmembrane transporter activity	9
+GO:0022857	MF	transmembrane transporter activity	542
+GO:0022890	MF	inorganic cation transmembrane transporter activity	120
+GO:0022900	BP	electron transport chain	9
+GO:0022904	BP	respiratory electron transport chain	7
+GO:0023014	BP	signal transduction by protein phosphorylation	1
+GO:0023041	BP	neuronal signal transduction	1
+GO:0023051	BP	regulation of signaling	72
+GO:0023052	BP	signaling	8
+GO:0023056	BP	positive regulation of signaling	12
+GO:0023057	BP	negative regulation of signaling	10
+GO:0030001	BP	metal ion transport	71
+GO:0030003	BP	cellular cation homeostasis	3
+GO:0030008	CC	TRAPP complex	4
+GO:0030014	CC	CCR4-NOT complex	1
+GO:0030018	CC	Z disc	3
+GO:0030029	BP	actin filament-based process	14
+GO:0030030	BP	cell projection organization	10
+GO:0030031	BP	cell projection assembly	7
+GO:0030036	BP	actin cytoskeleton organization	14
+GO:0030041	BP	actin filament polymerization	1
+GO:0030054	CC	cell junction	7
+GO:0030055	CC	cell-substrate junction	4
+GO:0030071	BP	regulation of mitotic metaphase/anaphase transition	3
+GO:0030099	BP	myeloid cell differentiation	1
+GO:0030111	BP	regulation of Wnt signaling pathway	7
+GO:0030117	CC	membrane coat	27
+GO:0030118	CC	clathrin coat	4
+GO:0030119	CC	AP-type membrane coat adaptor complex	8
+GO:0030120	CC	vesicle coat	16
+GO:0030123	CC	AP-3 adaptor complex	1
+GO:0030125	CC	clathrin vesicle coat	4
+GO:0030126	CC	COPI vesicle coat	4
+GO:0030127	CC	COPII vesicle coat	8
+GO:0030130	CC	clathrin coat of trans-Golgi network vesicle	4
+GO:0030131	CC	clathrin adaptor complex	5
+GO:0030132	CC	clathrin coat of coated pit	4
+GO:0030133	CC	transport vesicle	1
+GO:0030141	CC	secretory granule	4
+GO:0030144	MF	alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase activity	3
+GO:0030145	MF	manganese ion binding	4
+GO:0030149	BP	sphingolipid catabolic process	1
+GO:0030151	MF	molybdenum ion binding	2
+GO:0030154	BP	cell differentiation	7
+GO:0030155	BP	regulation of cell adhesion	7
+GO:0030162	BP	regulation of proteolysis	4
+GO:0030163	BP	protein catabolic process	18
+GO:0030168	BP	platelet activation	2
+GO:0030170	MF	pyridoxal phosphate binding	33
+GO:0030173	CC	integral component of Golgi membrane	1
+GO:0030176	CC	integral component of endoplasmic reticulum membrane	5
+GO:0030177	BP	positive regulation of Wnt signaling pathway	2
+GO:0030178	BP	negative regulation of Wnt signaling pathway	5
+GO:0030182	BP	neuron differentiation	1
+GO:0030203	BP	glycosaminoglycan metabolic process	11
+GO:0030212	BP	hyaluronan metabolic process	7
+GO:0030218	BP	erythrocyte differentiation	1
+GO:0030234	MF	enzyme regulator activity	157
+GO:0030246	MF	carbohydrate binding	26
+GO:0030247	MF	polysaccharide binding	9
+GO:0030258	BP	lipid modification	7
+GO:0030261	BP	chromosome condensation	3
+GO:0030276	MF	clathrin binding	3
+GO:0030278	BP	regulation of ossification	1
+GO:0030286	CC	dynein complex	21
+GO:0030289	CC	protein phosphatase 4 complex	1
+GO:0030291	MF	protein serine/threonine kinase inhibitor activity	5
+GO:0030295	MF	protein kinase activator activity	5
+GO:0030296	MF	protein tyrosine kinase activator activity	2
+GO:0030298	MF	receptor signaling protein tyrosine kinase activator activity	2
+GO:0030328	BP	prenylcysteine catabolic process	2
+GO:0030329	BP	prenylcysteine metabolic process	2
+GO:0030334	BP	regulation of cell migration	6
+GO:0030336	BP	negative regulation of cell migration	1
+GO:0030354	MF	melanin-concentrating hormone activity	2
+GO:0030414	MF	peptidase inhibitor activity	62
+GO:0030488	BP	tRNA methylation	7
+GO:0030490	BP	maturation of SSU-rRNA	2
+GO:0030507	MF	spectrin binding	3
+GO:0030512	BP	negative regulation of transforming growth factor beta receptor signaling pathway	2
+GO:0030515	MF	snoRNA binding	1
+GO:0030518	BP	intracellular steroid hormone receptor signaling pathway	2
+GO:0030521	BP	androgen receptor signaling pathway	1
+GO:0030522	BP	intracellular receptor signaling pathway	2
+GO:0030532	CC	small nuclear ribonucleoprotein complex	6
+GO:0030534	BP	adult behavior	5
+GO:0030551	MF	cyclic nucleotide binding	1
+GO:0030553	MF	cGMP binding	1
+GO:0030554	MF	adenyl nucleotide binding	1035
+GO:0030594	MF	neurotransmitter receptor activity	16
+GO:0030623	MF	U5 snRNA binding	1
+GO:0030659	CC	cytoplasmic vesicle membrane	1
+GO:0030667	CC	secretory granule membrane	1
+GO:0030674	MF	protein-macromolecule adaptor activity	7
+GO:0030677	CC	ribonuclease P complex	1
+GO:0030682	BP	mitigation of host defenses by symbiont	1
+GO:0030684	CC	preribosome	9
+GO:0030686	CC	90S preribosome	1
+GO:0030688	CC	preribosome, small subunit precursor	2
+GO:0030695	MF	GTPase regulator activity	53
+GO:0030705	BP	cytoskeleton-dependent intracellular transport	6
+GO:0030832	BP	regulation of actin filament length	18
+GO:0030833	BP	regulation of actin filament polymerization	18
+GO:0030834	BP	regulation of actin filament depolymerization	8
+GO:0030835	BP	negative regulation of actin filament depolymerization	8
+GO:0030837	BP	negative regulation of actin filament polymerization	8
+GO:0030838	BP	positive regulation of actin filament polymerization	4
+GO:0030865	BP	cortical cytoskeleton organization	5
+GO:0030866	BP	cortical actin cytoskeleton organization	5
+GO:0030867	CC	rough endoplasmic reticulum membrane	1
+GO:0030880	CC	RNA polymerase complex	5
+GO:0030896	CC	checkpoint clamp complex	3
+GO:0030915	CC	Smc5-Smc6 complex	1
+GO:0030942	MF	endoplasmic reticulum signal peptide binding	2
+GO:0030955	MF	potassium ion binding	4
+GO:0030964	CC	NADH dehydrogenase complex	4
+GO:0030971	MF	receptor tyrosine kinase binding	2
+GO:0030975	MF	thiamine binding	1
+GO:0030976	MF	thiamine pyrophosphate binding	2
+GO:0030983	MF	mismatched DNA binding	10
+GO:0030991	CC	intraciliary transport particle A	1
+GO:0031005	MF	filamin binding	2
+GO:0031011	CC	Ino80 complex	1
+GO:0031012	CC	extracellular matrix	19
+GO:0031023	BP	microtubule organizing center organization	2
+GO:0031055	BP	chromatin remodeling at centromere	2
+GO:0031072	MF	heat shock protein binding	5
+GO:0031082	CC	BLOC complex	2
+GO:0031083	CC	BLOC-1 complex	2
+GO:0031090	CC	organelle membrane	42
+GO:0031099	BP	regeneration	2
+GO:0031110	BP	regulation of microtubule polymerization or depolymerization	5
+GO:0031122	BP	cytoplasmic microtubule organization	4
+GO:0031123	BP	RNA 3'-end processing	4
+GO:0031124	BP	mRNA 3'-end processing	3
+GO:0031127	MF	alpha-(1,2)-fucosyltransferase activity	2
+GO:0031145	BP	anaphase-promoting complex-dependent catabolic process	14
+GO:0031163	BP	metallo-sulfur cluster assembly	4
+GO:0031167	BP	rRNA methylation	2
+GO:0031175	BP	neuron projection development	3
+GO:0031224	CC	intrinsic component of membrane	1045
+GO:0031225	CC	anchored component of membrane	7
+GO:0031226	CC	intrinsic component of plasma membrane	13
+GO:0031227	CC	intrinsic component of endoplasmic reticulum membrane	5
+GO:0031228	CC	intrinsic component of Golgi membrane	1
+GO:0031229	CC	intrinsic component of nuclear inner membrane	1
+GO:0031231	CC	intrinsic component of peroxisomal membrane	6
+GO:0031248	CC	protein acetyltransferase complex	8
+GO:0031267	MF	small GTPase binding	31
+GO:0031300	CC	intrinsic component of organelle membrane	10
+GO:0031301	CC	integral component of organelle membrane	10
+GO:0031304	CC	intrinsic component of mitochondrial inner membrane	2
+GO:0031305	CC	integral component of mitochondrial inner membrane	2
+GO:0031323	BP	regulation of cellular metabolic process	570
+GO:0031324	BP	negative regulation of cellular metabolic process	15
+GO:0031325	BP	positive regulation of cellular metabolic process	30
+GO:0031326	BP	regulation of cellular biosynthetic process	540
+GO:0031327	BP	negative regulation of cellular biosynthetic process	11
+GO:0031328	BP	positive regulation of cellular biosynthetic process	19
+GO:0031329	BP	regulation of cellular catabolic process	3
+GO:0031333	BP	negative regulation of protein-containing complex assembly	8
+GO:0031334	BP	positive regulation of protein-containing complex assembly	4
+GO:0031347	BP	regulation of defense response	1
+GO:0031365	BP	N-terminal protein amino acid modification	3
+GO:0031369	MF	translation initiation factor binding	4
+GO:0031390	CC	Ctf18 RFC-like complex	2
+GO:0031399	BP	regulation of protein modification process	17
+GO:0031400	BP	negative regulation of protein modification process	1
+GO:0031401	BP	positive regulation of protein modification process	8
+GO:0031406	MF	carboxylic acid binding	17
+GO:0031410	CC	cytoplasmic vesicle	7
+GO:0031414	CC	N-terminal protein acetyltransferase complex	1
+GO:0031417	CC	NatC complex	1
+GO:0031418	MF	L-ascorbic acid binding	1
+GO:0031419	MF	cobalamin binding	5
+GO:0031420	MF	alkali metal ion binding	4
+GO:0031461	CC	cullin-RING ubiquitin ligase complex	20
+GO:0031464	CC	Cul4A-RING E3 ubiquitin ligase complex	1
+GO:0031490	MF	chromatin DNA binding	3
+GO:0031491	MF	nucleosome binding	5
+GO:0031492	MF	nucleosomal DNA binding	3
+GO:0031503	BP	protein-containing complex localization	2
+GO:0031514	CC	motile cilium	3
+GO:0031515	CC	tRNA (m1A) methyltransferase complex	7
+GO:0031543	MF	peptidyl-proline dioxygenase activity	3
+GO:0031545	MF	peptidyl-proline 4-dioxygenase activity	3
+GO:0031570	BP	DNA integrity checkpoint	5
+GO:0031577	BP	spindle checkpoint	1
+GO:0031579	BP	membrane raft organization	4
+GO:0031589	BP	cell-substrate adhesion	4
+GO:0031625	MF	ubiquitin protein ligase binding	11
+GO:0031667	BP	response to nutrient levels	6
+GO:0031668	BP	cellular response to extracellular stimulus	6
+GO:0031669	BP	cellular response to nutrient levels	6
+GO:0031683	MF	G-protein beta/gamma-subunit complex binding	15
+GO:0031704	MF	apelin receptor binding	1
+GO:0031854	MF	orexigenic neuropeptide QRFP receptor binding	1
+GO:0031902	CC	late endosome membrane	1
+GO:0031958	BP	corticosteroid receptor signaling pathway	1
+GO:0031966	CC	mitochondrial membrane	18
+GO:0031967	CC	organelle envelope	3
+GO:0031968	CC	organelle outer membrane	7
+GO:0031974	CC	membrane-enclosed lumen	5
+GO:0031975	CC	envelope	3
+GO:0031982	CC	vesicle	7
+GO:0031984	CC	organelle subcompartment	2
+GO:0032006	BP	regulation of TOR signaling	4
+GO:0032007	BP	negative regulation of TOR signaling	2
+GO:0032008	BP	positive regulation of TOR signaling	1
+GO:0032012	BP	regulation of ARF protein signal transduction	15
+GO:0032039	CC	integrator complex	1
+GO:0032040	CC	small-subunit processome	7
+GO:0032048	BP	cardiolipin metabolic process	1
+GO:0032049	BP	cardiolipin biosynthetic process	1
+GO:0032051	MF	clathrin light chain binding	3
+GO:0032065	BP	maintenance of protein location in cell cortex	1
+GO:0032095	BP	regulation of response to food	5
+GO:0032096	BP	negative regulation of response to food	5
+GO:0032098	BP	regulation of appetite	5
+GO:0032099	BP	negative regulation of appetite	5
+GO:0032101	BP	regulation of response to external stimulus	5
+GO:0032102	BP	negative regulation of response to external stimulus	5
+GO:0032104	BP	regulation of response to extracellular stimulus	5
+GO:0032105	BP	negative regulation of response to extracellular stimulus	5
+GO:0032107	BP	regulation of response to nutrient levels	5
+GO:0032108	BP	negative regulation of response to nutrient levels	5
+GO:0032147	BP	activation of protein kinase activity	5
+GO:0032182	MF	ubiquitin-like protein binding	12
+GO:0032183	MF	SUMO binding	1
+GO:0032196	BP	transposition	97
+GO:0032200	BP	telomere organization	9
+GO:0032217	MF	riboflavin transmembrane transporter activity	2
+GO:0032218	BP	riboflavin transport	2
+GO:0032259	BP	methylation	43
+GO:0032266	MF	phosphatidylinositol-3-phosphate binding	1
+GO:0032268	BP	regulation of cellular protein metabolic process	25
+GO:0032269	BP	negative regulation of cellular protein metabolic process	3
+GO:0032270	BP	positive regulation of cellular protein metabolic process	13
+GO:0032271	BP	regulation of protein polymerization	18
+GO:0032272	BP	negative regulation of protein polymerization	8
+GO:0032273	BP	positive regulation of protein polymerization	4
+GO:0032296	MF	double-stranded RNA-specific ribonuclease activity	2
+GO:0032299	CC	ribonuclease H2 complex	1
+GO:0032309	BP	icosanoid secretion	7
+GO:0032324	BP	molybdopterin cofactor biosynthetic process	1
+GO:0032330	BP	regulation of chondrocyte differentiation	2
+GO:0032365	BP	intracellular lipid transport	1
+GO:0032366	BP	intracellular sterol transport	1
+GO:0032392	BP	DNA geometric change	9
+GO:0032400	BP	melanosome localization	1
+GO:0032401	BP	establishment of melanosome localization	1
+GO:0032402	BP	melanosome transport	1
+GO:0032418	BP	lysosome localization	1
+GO:0032422	MF	purine-rich negative regulatory element binding	3
+GO:0032446	BP	protein modification by small protein conjugation	31
+GO:0032465	BP	regulation of cytokinesis	1
+GO:0032501	BP	multicellular organismal process	72
+GO:0032502	BP	developmental process	58
+GO:0032507	BP	maintenance of protein location in cell	4
+GO:0032508	BP	DNA duplex unwinding	9
+GO:0032509	BP	endosome transport via multivesicular body sorting pathway	1
+GO:0032515	BP	negative regulation of phosphoprotein phosphatase activity	1
+GO:0032535	BP	regulation of cellular component size	18
+GO:0032543	BP	mitochondrial translation	1
+GO:0032549	MF	ribonucleoside binding	278
+GO:0032550	MF	purine ribonucleoside binding	278
+GO:0032553	MF	ribonucleotide binding	1314
+GO:0032555	MF	purine ribonucleotide binding	1308
+GO:0032559	MF	adenyl ribonucleotide binding	1033
+GO:0032561	MF	guanyl ribonucleotide binding	279
+GO:0032580	CC	Golgi cisterna membrane	10
+GO:0032592	CC	integral component of mitochondrial membrane	2
+GO:0032774	BP	RNA biosynthetic process	86
+GO:0032775	BP	DNA methylation on adenine	3
+GO:0032780	BP	negative regulation of ATPase activity	1
+GO:0032784	BP	regulation of DNA-templated transcription, elongation	1
+GO:0032786	BP	positive regulation of DNA-templated transcription, elongation	1
+GO:0032787	BP	monocarboxylic acid metabolic process	30
+GO:0032797	CC	SMN complex	1
+GO:0032813	MF	tumor necrosis factor receptor superfamily binding	8
+GO:0032879	BP	regulation of localization	12
+GO:0032880	BP	regulation of protein localization	1
+GO:0032886	BP	regulation of microtubule-based process	8
+GO:0032922	BP	circadian regulation of gene expression	1
+GO:0032940	BP	secretion by cell	12
+GO:0032956	BP	regulation of actin cytoskeleton organization	18
+GO:0032958	BP	inositol phosphate biosynthetic process	9
+GO:0032968	BP	positive regulation of transcription elongation from RNA polymerase II promoter	1
+GO:0032970	BP	regulation of actin filament-based process	18
+GO:0032977	MF	membrane insertase activity	2
+GO:0032981	BP	mitochondrial respiratory chain complex I assembly	3
+GO:0032984	BP	protein-containing complex disassembly	4
+GO:0032991	CC	protein-containing complex	658
+GO:0032993	CC	protein-DNA complex	9
+GO:0033013	BP	tetrapyrrole metabolic process	14
+GO:0033014	BP	tetrapyrrole biosynthetic process	7
+GO:0033015	BP	tetrapyrrole catabolic process	1
+GO:0033036	BP	macromolecule localization	114
+GO:0033043	BP	regulation of organelle organization	32
+GO:0033044	BP	regulation of chromosome organization	4
+GO:0033045	BP	regulation of sister chromatid segregation	3
+GO:0033046	BP	negative regulation of sister chromatid segregation	1
+GO:0033047	BP	regulation of mitotic sister chromatid segregation	3
+GO:0033048	BP	negative regulation of mitotic sister chromatid segregation	1
+GO:0033108	BP	mitochondrial respiratory chain complex assembly	4
+GO:0033170	MF	protein-DNA loading ATPase activity	1
+GO:0033176	CC	proton-transporting V-type ATPase complex	2
+GO:0033177	CC	proton-transporting two-sector ATPase complex, proton-transporting domain	13
+GO:0033178	CC	proton-transporting two-sector ATPase complex, catalytic domain	8
+GO:0033179	CC	proton-transporting V-type ATPase, V0 domain	6
+GO:0033180	CC	proton-transporting V-type ATPase, V1 domain	5
+GO:0033202	CC	DNA helicase complex	1
+GO:0033218	MF	amide binding	8
+GO:0033293	MF	monocarboxylic acid binding	1
+GO:0033365	BP	protein localization to organelle	16
+GO:0033554	BP	cellular response to stress	103
+GO:0033557	CC	Slx1-Slx4 complex	1
+GO:0033566	BP	gamma-tubulin complex localization	1
+GO:0033588	CC	Elongator holoenzyme complex	4
+GO:0033617	BP	mitochondrial cytochrome c oxidase assembly	1
+GO:0033674	BP	positive regulation of kinase activity	5
+GO:0033692	BP	cellular polysaccharide biosynthetic process	2
+GO:0033743	MF	peptide-methionine (R)-S-oxide reductase activity	2
+GO:0033764	MF	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	12
+GO:0033865	BP	nucleoside bisphosphate metabolic process	8
+GO:0033866	BP	nucleoside bisphosphate biosynthetic process	7
+GO:0033875	BP	ribonucleoside bisphosphate metabolic process	8
+GO:0033897	MF	ribonuclease T2 activity	1
+GO:0033925	MF	mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase activity	1
+GO:0034030	BP	ribonucleoside bisphosphate biosynthetic process	7
+GO:0034032	BP	purine nucleoside bisphosphate metabolic process	8
+GO:0034033	BP	purine nucleoside bisphosphate biosynthetic process	7
+GO:0034061	MF	DNA polymerase activity	10
+GO:0034062	MF	5'-3' RNA polymerase activity	19
+GO:0034080	BP	CENP-A containing nucleosome assembly	2
+GO:0034121	BP	regulation of toll-like receptor signaling pathway	1
+GO:0034198	BP	cellular response to amino acid starvation	1
+GO:0034212	MF	peptide N-acetyltransferase activity	11
+GO:0034219	BP	carbohydrate transmembrane transport	1
+GO:0034220	BP	ion transmembrane transport	51
+GO:0034227	BP	tRNA thio-modification	2
+GO:0034237	MF	protein kinase A regulatory subunit binding	1
+GO:0034243	BP	regulation of transcription elongation from RNA polymerase II promoter	1
+GO:0034248	BP	regulation of cellular amide metabolic process	4
+GO:0034249	BP	negative regulation of cellular amide metabolic process	1
+GO:0034250	BP	positive regulation of cellular amide metabolic process	2
+GO:0034272	CC	phosphatidylinositol 3-kinase complex, class III, type II	1
+GO:0034314	BP	Arp2/3 complex-mediated actin nucleation	4
+GO:0034315	BP	regulation of Arp2/3 complex-mediated actin nucleation	1
+GO:0034440	BP	lipid oxidation	5
+GO:0034450	MF	ubiquitin-ubiquitin ligase activity	2
+GO:0034453	BP	microtubule anchoring	2
+GO:0034457	CC	Mpp10 complex	3
+GO:0034464	CC	BBSome	1
+GO:0034470	BP	ncRNA processing	69
+GO:0034472	BP	snRNA 3'-end processing	1
+GO:0034477	BP	U6 snRNA 3'-end processing	1
+GO:0034483	MF	heparan sulfate sulfotransferase activity	4
+GO:0034504	BP	protein localization to nucleus	8
+GO:0034508	BP	centromere complex assembly	2
+GO:0034518	CC	RNA cap binding complex	1
+GO:0034593	MF	phosphatidylinositol bisphosphate phosphatase activity	2
+GO:0034596	MF	phosphatidylinositol phosphate 4-phosphatase activity	2
+GO:0034597	MF	phosphatidylinositol-4,5-bisphosphate 4-phosphatase activity	2
+GO:0034613	BP	cellular protein localization	21
+GO:0034622	BP	cellular protein-containing complex assembly	55
+GO:0034629	BP	cellular protein-containing complex localization	1
+GO:0034637	BP	cellular carbohydrate biosynthetic process	3
+GO:0034641	BP	cellular nitrogen compound metabolic process	982
+GO:0034645	BP	cellular macromolecule biosynthetic process	248
+GO:0034654	BP	nucleobase-containing compound biosynthetic process	142
+GO:0034655	BP	nucleobase-containing compound catabolic process	16
+GO:0034660	BP	ncRNA metabolic process	111
+GO:0034702	CC	ion channel complex	11
+GO:0034703	CC	cation channel complex	11
+GO:0034704	CC	calcium channel complex	4
+GO:0034705	CC	potassium channel complex	2
+GO:0034706	CC	sodium channel complex	5
+GO:0034708	CC	methyltransferase complex	7
+GO:0034719	CC	SMN-Sm protein complex	1
+GO:0034724	BP	DNA replication-independent nucleosome organization	2
+GO:0034728	BP	nucleosome organization	19
+GO:0034755	BP	iron ion transmembrane transport	2
+GO:0034968	BP	histone lysine methylation	8
+GO:0035014	MF	phosphatidylinositol 3-kinase regulator activity	4
+GO:0035032	CC	phosphatidylinositol 3-kinase complex, class III	1
+GO:0035091	MF	phosphatidylinositol binding	46
+GO:0035145	CC	exon-exon junction complex	1
+GO:0035150	BP	regulation of tube size	3
+GO:0035240	MF	dopamine binding	1
+GO:0035251	MF	UDP-glucosyltransferase activity	4
+GO:0035257	MF	nuclear hormone receptor binding	1
+GO:0035296	BP	regulation of tube diameter	3
+GO:0035299	MF	inositol pentakisphosphate 2-kinase activity	1
+GO:0035303	BP	regulation of dephosphorylation	8
+GO:0035304	BP	regulation of protein dephosphorylation	7
+GO:0035305	BP	negative regulation of dephosphorylation	2
+GO:0035306	BP	positive regulation of dephosphorylation	1
+GO:0035307	BP	positive regulation of protein dephosphorylation	1
+GO:0035308	BP	negative regulation of protein dephosphorylation	1
+GO:0035312	MF	5'-3' exodeoxyribonuclease activity	1
+GO:0035383	BP	thioester metabolic process	1
+GO:0035434	BP	copper ion transmembrane transport	2
+GO:0035435	BP	phosphate ion transmembrane transport	1
+GO:0035437	BP	maintenance of protein localization in endoplasmic reticulum	3
+GO:0035556	BP	intracellular signal transduction	153
+GO:0035596	MF	methylthiotransferase activity	2
+GO:0035601	BP	protein deacylation	3
+GO:0035639	MF	purine ribonucleoside triphosphate binding	1306
+GO:0035650	MF	AP-1 adaptor complex binding	1
+GO:0035821	BP	modulation of process of other organism	2
+GO:0035966	BP	response to topologically incorrect protein	1
+GO:0036038	CC	MKS complex	3
+GO:0036094	MF	small molecule binding	1476
+GO:0036211	BP	protein modification process	824
+GO:0036260	BP	RNA capping	5
+GO:0036265	BP	RNA (guanine-N7)-methylation	2
+GO:0036297	BP	interstrand cross-link repair	5
+GO:0036452	CC	ESCRT complex	4
+GO:0038023	MF	signaling receptor activity	432
+GO:0038024	MF	cargo receptor activity	16
+GO:0038166	BP	angiotensin-activated signaling pathway	1
+GO:0038179	BP	neurotrophin signaling pathway	1
+GO:0039694	BP	viral RNA genome replication	1
+GO:0039703	BP	RNA replication	1
+GO:0040001	BP	establishment of mitotic spindle localization	1
+GO:0040007	BP	growth	2
+GO:0040011	BP	locomotion	1
+GO:0040012	BP	regulation of locomotion	7
+GO:0040013	BP	negative regulation of locomotion	2
+GO:0042030	MF	ATPase inhibitor activity	1
+GO:0042054	MF	histone methyltransferase activity	15
+GO:0042073	BP	intraciliary transport	1
+GO:0042084	MF	5-methyltetrahydrofolate-dependent methyltransferase activity	1
+GO:0042127	BP	regulation of cell population proliferation	2
+GO:0042138	BP	meiotic DNA double-strand break formation	1
+GO:0042147	BP	retrograde transport, endosome to Golgi	1
+GO:0042157	BP	lipoprotein metabolic process	67
+GO:0042162	MF	telomeric DNA binding	3
+GO:0042167	BP	heme catabolic process	1
+GO:0042168	BP	heme metabolic process	5
+GO:0042176	BP	regulation of protein catabolic process	1
+GO:0042180	BP	cellular ketone metabolic process	2
+GO:0042181	BP	ketone biosynthetic process	2
+GO:0042219	BP	cellular modified amino acid catabolic process	4
+GO:0042221	BP	response to chemical	7
+GO:0042246	BP	tissue regeneration	2
+GO:0042254	BP	ribosome biogenesis	11
+GO:0042255	BP	ribosome assembly	1
+GO:0042256	BP	mature ribosome assembly	1
+GO:0042274	BP	ribosomal small subunit biogenesis	1
+GO:0042277	MF	peptide binding	6
+GO:0042278	BP	purine nucleoside metabolic process	2
+GO:0042287	MF	MHC protein binding	1
+GO:0042289	MF	MHC class II protein binding	1
+GO:0042302	MF	structural constituent of cuticle	1
+GO:0042325	BP	regulation of phosphorylation	13
+GO:0042327	BP	positive regulation of phosphorylation	7
+GO:0042357	BP	thiamine diphosphate metabolic process	1
+GO:0042364	BP	water-soluble vitamin biosynthetic process	1
+GO:0042379	MF	chemokine receptor binding	11
+GO:0042393	MF	histone binding	2
+GO:0042398	BP	cellular modified amino acid biosynthetic process	8
+GO:0042401	BP	cellular biogenic amine biosynthetic process	1
+GO:0042407	BP	cristae formation	2
+GO:0042440	BP	pigment metabolic process	6
+GO:0042451	BP	purine nucleoside biosynthetic process	1
+GO:0042454	BP	ribonucleoside catabolic process	1
+GO:0042455	BP	ribonucleoside biosynthetic process	1
+GO:0042470	CC	melanosome	2
+GO:0042555	CC	MCM complex	1
+GO:0042558	BP	pteridine-containing compound metabolic process	5
+GO:0042559	BP	pteridine-containing compound biosynthetic process	4
+GO:0042562	MF	hormone binding	1
+GO:0042575	CC	DNA polymerase complex	1
+GO:0042578	MF	phosphoric ester hydrolase activity	147
+GO:0042579	CC	microbody	8
+GO:0042586	MF	peptide deformylase activity	1
+GO:0042592	BP	homeostatic process	19
+GO:0042594	BP	response to starvation	6
+GO:0042611	CC	MHC protein complex	6
+GO:0042613	CC	MHC class II protein complex	6
+GO:0042625	MF	ATPase-coupled ion transmembrane transporter activity	9
+GO:0042626	MF	ATPase-coupled transmembrane transporter activity	53
+GO:0042632	BP	cholesterol homeostasis	1
+GO:0042721	CC	TIM22 mitochondrial import inner membrane insertion complex	1
+GO:0042726	BP	flavin-containing compound metabolic process	1
+GO:0042727	BP	flavin-containing compound biosynthetic process	1
+GO:0042752	BP	regulation of circadian rhythm	2
+GO:0042754	BP	negative regulation of circadian rhythm	2
+GO:0042765	CC	GPI-anchor transamidase complex	3
+GO:0042773	BP	ATP synthesis coupled electron transport	3
+GO:0042802	MF	identical protein binding	19
+GO:0042803	MF	protein homodimerization activity	4
+GO:0042886	BP	amide transport	115
+GO:0042887	MF	amide transmembrane transporter activity	1
+GO:0042910	MF	xenobiotic transmembrane transporter activity	4
+GO:0042921	BP	glucocorticoid receptor signaling pathway	1
+GO:0042974	MF	retinoic acid receptor binding	1
+GO:0042981	BP	regulation of apoptotic process	59
+GO:0042995	CC	cell projection	5
+GO:0042996	BP	regulation of Golgi to plasma membrane protein transport	1
+GO:0042998	BP	positive regulation of Golgi to plasma membrane protein transport	1
+GO:0043015	MF	gamma-tubulin binding	7
+GO:0043021	MF	ribonucleoprotein complex binding	5
+GO:0043022	MF	ribosome binding	3
+GO:0043038	BP	amino acid activation	42
+GO:0043039	BP	tRNA aminoacylation	42
+GO:0043043	BP	peptide biosynthetic process	155
+GO:0043044	BP	ATP-dependent chromatin remodeling	5
+GO:0043047	MF	single-stranded telomeric DNA binding	1
+GO:0043065	BP	positive regulation of apoptotic process	7
+GO:0043066	BP	negative regulation of apoptotic process	4
+GO:0043067	BP	regulation of programmed cell death	59
+GO:0043068	BP	positive regulation of programmed cell death	7
+GO:0043069	BP	negative regulation of programmed cell death	4
+GO:0043085	BP	positive regulation of catalytic activity	13
+GO:0043086	BP	negative regulation of catalytic activity	5
+GO:0043087	BP	regulation of GTPase activity	16
+GO:0043113	BP	receptor clustering	1
+GO:0043122	BP	regulation of I-kappaB kinase/NF-kappaB signaling	2
+GO:0043123	BP	positive regulation of I-kappaB kinase/NF-kappaB signaling	2
+GO:0043130	MF	ubiquitin binding	11
+GO:0043138	MF	3'-5' DNA helicase activity	2
+GO:0043161	BP	proteasome-mediated ubiquitin-dependent protein catabolic process	15
+GO:0043167	MF	ion binding	2798
+GO:0043168	MF	anion binding	1499
+GO:0043169	MF	cation binding	1353
+GO:0043170	BP	macromolecule metabolic process	2063
+GO:0043171	BP	peptide catabolic process	2
+GO:0043177	MF	organic acid binding	17
+GO:0043189	CC	H4/H2A histone acetyltransferase complex	1
+GO:0043200	BP	response to amino acid	1
+GO:0043207	BP	response to external biotic stimulus	2
+GO:0043226	CC	organelle	489
+GO:0043227	CC	membrane-bounded organelle	270
+GO:0043228	CC	non-membrane-bounded organelle	219
+GO:0043229	CC	intracellular organelle	486
+GO:0043231	CC	intracellular membrane-bounded organelle	263
+GO:0043232	CC	intracellular non-membrane-bounded organelle	219
+GO:0043233	CC	organelle lumen	5
+GO:0043236	MF	laminin binding	1
+GO:0043240	CC	Fanconi anaemia nuclear complex	5
+GO:0043242	BP	negative regulation of protein-containing complex disassembly	8
+GO:0043243	BP	positive regulation of protein-containing complex disassembly	2
+GO:0043244	BP	regulation of protein-containing complex disassembly	10
+GO:0043248	BP	proteasome assembly	6
+GO:0043254	BP	regulation of protein-containing complex assembly	18
+GO:0043269	BP	regulation of ion transport	3
+GO:0043280	BP	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	2
+GO:0043281	BP	regulation of cysteine-type endopeptidase activity involved in apoptotic process	2
+GO:0043401	BP	steroid hormone mediated signaling pathway	3
+GO:0043402	BP	glucocorticoid mediated signaling pathway	1
+GO:0043405	BP	regulation of MAP kinase activity	5
+GO:0043406	BP	positive regulation of MAP kinase activity	5
+GO:0043408	BP	regulation of MAPK cascade	6
+GO:0043410	BP	positive regulation of MAPK cascade	6
+GO:0043412	BP	macromolecule modification	870
+GO:0043413	BP	macromolecule glycosylation	86
+GO:0043414	BP	macromolecule methylation	32
+GO:0043436	BP	oxoacid metabolic process	119
+GO:0043461	BP	proton-transporting ATP synthase complex assembly	1
+GO:0043462	BP	regulation of ATPase activity	1
+GO:0043486	BP	histone exchange	3
+GO:0043487	BP	regulation of RNA stability	5
+GO:0043488	BP	regulation of mRNA stability	5
+GO:0043492	MF	ATPase activity, coupled to movement of substances	53
+GO:0043523	BP	regulation of neuron apoptotic process	2
+GO:0043524	BP	negative regulation of neuron apoptotic process	2
+GO:0043527	CC	tRNA methyltransferase complex	7
+GO:0043531	MF	ADP binding	1
+GO:0043539	MF	protein serine/threonine kinase activator activity	3
+GO:0043543	BP	protein acylation	10
+GO:0043545	BP	molybdopterin cofactor metabolic process	3
+GO:0043547	BP	positive regulation of GTPase activity	1
+GO:0043549	BP	regulation of kinase activity	8
+GO:0043565	MF	sequence-specific DNA binding	140
+GO:0043574	BP	peroxisomal transport	1
+GO:0043603	BP	cellular amide metabolic process	188
+GO:0043604	BP	amide biosynthetic process	161
+GO:0043605	BP	cellular amide catabolic process	1
+GO:0043624	BP	cellular protein complex disassembly	4
+GO:0043625	CC	delta DNA polymerase complex	1
+GO:0043628	BP	ncRNA 3'-end processing	1
+GO:0043631	BP	RNA polyadenylation	3
+GO:0043632	BP	modification-dependent macromolecule catabolic process	47
+GO:0043647	BP	inositol phosphate metabolic process	14
+GO:0043648	BP	dicarboxylic acid metabolic process	1
+GO:0043650	BP	dicarboxylic acid biosynthetic process	1
+GO:0043666	BP	regulation of phosphoprotein phosphatase activity	6
+GO:0043687	BP	post-translational protein modification	3
+GO:0043933	BP	protein-containing complex subunit organization	114
+GO:0044003	BP	modulation by symbiont of host process	2
+GO:0044033	BP	multi-organism metabolic process	1
+GO:0044042	BP	glucan metabolic process	2
+GO:0044057	BP	regulation of system process	3
+GO:0044085	BP	cellular component biogenesis	16
+GO:0044087	BP	regulation of cellular component biogenesis	20
+GO:0044089	BP	positive regulation of cellular component biogenesis	4
+GO:0044092	BP	negative regulation of molecular function	5
+GO:0044093	BP	positive regulation of molecular function	13
+GO:0044106	BP	cellular amine metabolic process	2
+GO:0044237	BP	cellular metabolic process	2039
+GO:0044238	BP	primary metabolic process	2436
+GO:0044242	BP	cellular lipid catabolic process	8
+GO:0044248	BP	cellular catabolic process	88
+GO:0044249	BP	cellular biosynthetic process	410
+GO:0044255	BP	cellular lipid metabolic process	71
+GO:0044260	BP	cellular macromolecule metabolic process	1704
+GO:0044262	BP	cellular carbohydrate metabolic process	10
+GO:0044264	BP	cellular polysaccharide metabolic process	2
+GO:0044265	BP	cellular macromolecule catabolic process	58
+GO:0044267	BP	cellular protein metabolic process	978
+GO:0044270	BP	cellular nitrogen compound catabolic process	18
+GO:0044271	BP	cellular nitrogen compound biosynthetic process	318
+GO:0044272	BP	sulfur compound biosynthetic process	9
+GO:0044273	BP	sulfur compound catabolic process	4
+GO:0044281	BP	small molecule metabolic process	232
+GO:0044282	BP	small molecule catabolic process	15
+GO:0044283	BP	small molecule biosynthetic process	33
+GO:0044389	MF	ubiquitin-like protein ligase binding	11
+GO:0044391	CC	ribosomal subunit	7
+GO:0044403	BP	symbiotic process	7
+GO:0044406	BP	adhesion of symbiont to host	6
+GO:0044409	BP	entry into host	2
+GO:0044419	BP	interspecies interaction between organisms	9
+GO:0044528	BP	regulation of mitochondrial mRNA stability	5
+GO:0044599	CC	AP-5 adaptor complex	1
+GO:0044650	BP	adhesion of symbiont to host cell	6
+GO:0044728	BP	DNA methylation or demethylation	4
+GO:0044743	BP	protein transmembrane import into intracellular organelle	1
+GO:0044764	BP	multi-organism cellular process	6
+GO:0044769	MF	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	5
+GO:0044782	BP	cilium organization	7
+GO:0044815	CC	DNA packaging complex	10
+GO:0044854	BP	plasma membrane raft assembly	4
+GO:0044857	BP	plasma membrane raft organization	4
+GO:0044877	MF	protein-containing complex binding	47
+GO:0045005	BP	DNA-dependent DNA replication maintenance of fidelity	1
+GO:0045010	BP	actin nucleation	4
+GO:0045017	BP	glycerolipid biosynthetic process	15
+GO:0045026	BP	plasma membrane fusion	1
+GO:0045046	BP	protein import into peroxisome membrane	1
+GO:0045047	BP	protein targeting to ER	7
+GO:0045048	BP	protein insertion into ER membrane	3
+GO:0045088	BP	regulation of innate immune response	1
+GO:0045095	CC	keratin filament	4
+GO:0045116	BP	protein neddylation	1
+GO:0045121	CC	membrane raft	2
+GO:0045132	BP	meiotic chromosome segregation	2
+GO:0045145	MF	single-stranded DNA 5'-3' exodeoxyribonuclease activity	1
+GO:0045184	BP	establishment of protein localization	112
+GO:0045185	BP	maintenance of protein location	4
+GO:0045202	CC	synapse	4
+GO:0045261	CC	proton-transporting ATP synthase complex, catalytic core F(1)	2
+GO:0045263	CC	proton-transporting ATP synthase complex, coupling factor F(o)	4
+GO:0045271	CC	respiratory chain complex I	4
+GO:0045275	CC	respiratory chain complex III	1
+GO:0045277	CC	respiratory chain complex IV	3
+GO:0045333	BP	cellular respiration	1
+GO:0045337	BP	farnesyl diphosphate biosynthetic process	1
+GO:0045338	BP	farnesyl diphosphate metabolic process	1
+GO:0045454	BP	cell redox homeostasis	5
+GO:0045595	BP	regulation of cell differentiation	6
+GO:0045596	BP	negative regulation of cell differentiation	1
+GO:0045597	BP	positive regulation of cell differentiation	2
+GO:0045664	BP	regulation of neuron differentiation	2
+GO:0045666	BP	positive regulation of neuron differentiation	2
+GO:0045667	BP	regulation of osteoblast differentiation	1
+GO:0045727	BP	positive regulation of translation	2
+GO:0045738	BP	negative regulation of DNA repair	1
+GO:0045765	BP	regulation of angiogenesis	3
+GO:0045766	BP	positive regulation of angiogenesis	1
+GO:0045786	BP	negative regulation of cell cycle	13
+GO:0045787	BP	positive regulation of cell cycle	3
+GO:0045839	BP	negative regulation of mitotic nuclear division	1
+GO:0045841	BP	negative regulation of mitotic metaphase/anaphase transition	1
+GO:0045859	BP	regulation of protein kinase activity	8
+GO:0045860	BP	positive regulation of protein kinase activity	5
+GO:0045861	BP	negative regulation of proteolysis	1
+GO:0045862	BP	positive regulation of proteolysis	3
+GO:0045892	BP	negative regulation of transcription, DNA-templated	9
+GO:0045893	BP	positive regulation of transcription, DNA-templated	16
+GO:0045901	BP	positive regulation of translational elongation	2
+GO:0045905	BP	positive regulation of translational termination	2
+GO:0045930	BP	negative regulation of mitotic cell cycle	6
+GO:0045934	BP	negative regulation of nucleobase-containing compound metabolic process	11
+GO:0045935	BP	positive regulation of nucleobase-containing compound metabolic process	17
+GO:0045936	BP	negative regulation of phosphate metabolic process	2
+GO:0045937	BP	positive regulation of phosphate metabolic process	8
+GO:0045944	BP	positive regulation of transcription by RNA polymerase II	8
+GO:0045947	BP	negative regulation of translational initiation	1
+GO:0045995	BP	regulation of embryonic development	5
+GO:0046031	BP	ADP metabolic process	13
+GO:0046034	BP	ATP metabolic process	27
+GO:0046037	BP	GMP metabolic process	1
+GO:0046039	BP	GTP metabolic process	1
+GO:0046040	BP	IMP metabolic process	1
+GO:0046058	BP	cAMP metabolic process	5
+GO:0046068	BP	cGMP metabolic process	6
+GO:0046087	BP	cytidine metabolic process	1
+GO:0046112	BP	nucleobase biosynthetic process	2
+GO:0046128	BP	purine ribonucleoside metabolic process	2
+GO:0046129	BP	purine ribonucleoside biosynthetic process	1
+GO:0046131	BP	pyrimidine ribonucleoside metabolic process	1
+GO:0046133	BP	pyrimidine ribonucleoside catabolic process	1
+GO:0046135	BP	pyrimidine nucleoside catabolic process	1
+GO:0046146	BP	tetrahydrobiopterin metabolic process	2
+GO:0046148	BP	pigment biosynthetic process	3
+GO:0046149	BP	pigment catabolic process	1
+GO:0046160	BP	heme a metabolic process	1
+GO:0046164	BP	alcohol catabolic process	5
+GO:0046165	BP	alcohol biosynthetic process	11
+GO:0046168	BP	glycerol-3-phosphate catabolic process	3
+GO:0046173	BP	polyol biosynthetic process	10
+GO:0046174	BP	polyol catabolic process	5
+GO:0046209	BP	nitric oxide metabolic process	2
+GO:0046332	MF	SMAD binding	4
+GO:0046364	BP	monosaccharide biosynthetic process	4
+GO:0046390	BP	ribose phosphate biosynthetic process	31
+GO:0046394	BP	carboxylic acid biosynthetic process	15
+GO:0046395	BP	carboxylic acid catabolic process	10
+GO:0046434	BP	organophosphate catabolic process	15
+GO:0046466	BP	membrane lipid catabolic process	1
+GO:0046467	BP	membrane lipid biosynthetic process	15
+GO:0046471	BP	phosphatidylglycerol metabolic process	1
+GO:0046474	BP	glycerophospholipid biosynthetic process	15
+GO:0046477	BP	glycosylceramide catabolic process	1
+GO:0046479	BP	glycosphingolipid catabolic process	1
+GO:0046483	BP	heterocycle metabolic process	803
+GO:0046486	BP	glycerolipid metabolic process	25
+GO:0046488	BP	phosphatidylinositol metabolic process	22
+GO:0046496	BP	nicotinamide nucleotide metabolic process	18
+GO:0046500	BP	S-adenosylmethionine metabolic process	3
+GO:0046514	BP	ceramide catabolic process	1
+GO:0046527	MF	glucosyltransferase activity	4
+GO:0046540	CC	U4/U6 x U5 tri-snRNP complex	4
+GO:0046578	BP	regulation of Ras protein signal transduction	15
+GO:0046599	BP	regulation of centriole replication	2
+GO:0046600	BP	negative regulation of centriole replication	2
+GO:0046605	BP	regulation of centrosome cycle	2
+GO:0046606	BP	negative regulation of centrosome cycle	2
+GO:0046653	BP	tetrahydrofolate metabolic process	2
+GO:0046654	BP	tetrahydrofolate biosynthetic process	2
+GO:0046658	CC	anchored component of plasma membrane	6
+GO:0046700	BP	heterocycle catabolic process	18
+GO:0046717	BP	acid secretion	7
+GO:0046718	BP	viral entry into host cell	2
+GO:0046797	BP	viral procapsid maturation	2
+GO:0046838	BP	phosphorylated carbohydrate dephosphorylation	5
+GO:0046839	BP	phospholipid dephosphorylation	2
+GO:0046855	BP	inositol phosphate dephosphorylation	5
+GO:0046856	BP	phosphatidylinositol dephosphorylation	2
+GO:0046857	MF	oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor	5
+GO:0046872	MF	metal ion binding	1348
+GO:0046873	MF	metal ion transmembrane transporter activity	76
+GO:0046903	BP	secretion	19
+GO:0046906	MF	tetrapyrrole binding	120
+GO:0046907	BP	intracellular transport	118
+GO:0046912	MF	transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer	3
+GO:0046914	MF	transition metal ion binding	591
+GO:0046915	MF	transition metal ion transmembrane transporter activity	4
+GO:0046916	BP	cellular transition metal ion homeostasis	1
+GO:0046923	MF	ER retention sequence binding	3
+GO:0046933	MF	proton-transporting ATP synthase activity, rotational mechanism	3
+GO:0046935	MF	1-phosphatidylinositol-3-kinase regulator activity	4
+GO:0046939	BP	nucleotide phosphorylation	13
+GO:0046942	BP	carboxylic acid transport	12
+GO:0046961	MF	proton-transporting ATPase activity, rotational mechanism	2
+GO:0046982	MF	protein heterodimerization activity	1
+GO:0046983	MF	protein dimerization activity	154
+GO:0047429	MF	nucleoside-triphosphate diphosphatase activity	4
+GO:0047834	MF	D-threo-aldose 1-dehydrogenase activity	21
+GO:0047961	MF	glycine N-acyltransferase activity	3
+GO:0048011	BP	neurotrophin TRK receptor signaling pathway	1
+GO:0048029	MF	monosaccharide binding	3
+GO:0048038	MF	quinone binding	4
+GO:0048040	MF	UDP-glucuronate decarboxylase activity	1
+GO:0048193	BP	Golgi vesicle transport	22
+GO:0048199	BP	vesicle targeting, to, from or within Golgi	1
+GO:0048203	BP	vesicle targeting, trans-Golgi to endosome	1
+GO:0048232	BP	male gamete generation	1
+GO:0048268	BP	clathrin coat assembly	3
+GO:0048278	BP	vesicle docking	3
+GO:0048280	BP	vesicle fusion with Golgi apparatus	1
+GO:0048284	BP	organelle fusion	6
+GO:0048285	BP	organelle fission	4
+GO:0048306	MF	calcium-dependent protein binding	1
+GO:0048468	BP	cell development	1
+GO:0048478	BP	replication fork protection	1
+GO:0048487	MF	beta-tubulin binding	2
+GO:0048500	CC	signal recognition particle	5
+GO:0048511	BP	rhythmic process	3
+GO:0048512	BP	circadian behavior	1
+GO:0048513	BP	animal organ development	1
+GO:0048518	BP	positive regulation of biological process	51
+GO:0048519	BP	negative regulation of biological process	67
+GO:0048522	BP	positive regulation of cellular process	50
+GO:0048523	BP	negative regulation of cellular process	54
+GO:0048583	BP	regulation of response to stimulus	78
+GO:0048584	BP	positive regulation of response to stimulus	13
+GO:0048585	BP	negative regulation of response to stimulus	16
+GO:0048589	BP	developmental growth	2
+GO:0048598	BP	embryonic morphogenesis	1
+GO:0048609	BP	multicellular organismal reproductive process	2
+GO:0048731	BP	system development	1
+GO:0048770	CC	pigment granule	2
+GO:0048856	BP	anatomical structure development	55
+GO:0048869	BP	cellular developmental process	8
+GO:0048870	BP	cell motility	1
+GO:0048878	BP	chemical homeostasis	5
+GO:0050053	MF	levansucrase activity	1
+GO:0050080	MF	malonyl-CoA decarboxylase activity	1
+GO:0050136	MF	NADH dehydrogenase (quinone) activity	9
+GO:0050290	MF	sphingomyelin phosphodiesterase D activity	1
+GO:0050482	BP	arachidonic acid secretion	7
+GO:0050497	MF	transferase activity, transferring alkylthio groups	2
+GO:0050657	BP	nucleic acid transport	4
+GO:0050658	BP	RNA transport	4
+GO:0050660	MF	flavin adenine dinucleotide binding	46
+GO:0050661	MF	NADP binding	23
+GO:0050667	BP	homocysteine metabolic process	5
+GO:0050694	MF	galactose 3-O-sulfotransferase activity	3
+GO:0050750	MF	low-density lipoprotein particle receptor binding	1
+GO:0050767	BP	regulation of neurogenesis	2
+GO:0050769	BP	positive regulation of neurogenesis	2
+GO:0050776	BP	regulation of immune response	2
+GO:0050778	BP	positive regulation of immune response	1
+GO:0050789	BP	regulation of biological process	1584
+GO:0050790	BP	regulation of catalytic activity	42
+GO:0050793	BP	regulation of developmental process	18
+GO:0050794	BP	regulation of cellular process	1557
+GO:0050801	BP	ion homeostasis	4
+GO:0050817	BP	coagulation	5
+GO:0050840	MF	extracellular matrix binding	1
+GO:0050863	BP	regulation of T cell activation	1
+GO:0050865	BP	regulation of cell activation	1
+GO:0050866	BP	negative regulation of cell activation	1
+GO:0050868	BP	negative regulation of T cell activation	1
+GO:0050877	BP	nervous system process	4
+GO:0050878	BP	regulation of body fluid levels	5
+GO:0050896	BP	response to stimulus	152
+GO:0050909	BP	sensory perception of taste	1
+GO:0050953	BP	sensory perception of light stimulus	1
+GO:0050954	BP	sensory perception of mechanical stimulus	1
+GO:0051015	MF	actin filament binding	15
+GO:0051016	BP	barbed-end actin filament capping	2
+GO:0051018	MF	protein kinase A binding	1
+GO:0051020	MF	GTPase binding	31
+GO:0051028	BP	mRNA transport	4
+GO:0051049	BP	regulation of transport	4
+GO:0051050	BP	positive regulation of transport	1
+GO:0051052	BP	regulation of DNA metabolic process	6
+GO:0051053	BP	negative regulation of DNA metabolic process	2
+GO:0051054	BP	positive regulation of DNA metabolic process	1
+GO:0051056	BP	regulation of small GTPase mediated signal transduction	26
+GO:0051082	MF	unfolded protein binding	21
+GO:0051087	MF	chaperone binding	7
+GO:0051093	BP	negative regulation of developmental process	1
+GO:0051094	BP	positive regulation of developmental process	3
+GO:0051095	BP	regulation of helicase activity	1
+GO:0051097	BP	negative regulation of helicase activity	1
+GO:0051119	MF	sugar transmembrane transporter activity	1
+GO:0051125	BP	regulation of actin nucleation	2
+GO:0051126	BP	negative regulation of actin nucleation	1
+GO:0051128	BP	regulation of cellular component organization	39
+GO:0051129	BP	negative regulation of cellular component organization	14
+GO:0051130	BP	positive regulation of cellular component organization	8
+GO:0051156	BP	glucose 6-phosphate metabolic process	1
+GO:0051168	BP	nuclear export	5
+GO:0051169	BP	nuclear transport	15
+GO:0051170	BP	import into nucleus	8
+GO:0051171	BP	regulation of nitrogen compound metabolic process	564
+GO:0051172	BP	negative regulation of nitrogen compound metabolic process	14
+GO:0051173	BP	positive regulation of nitrogen compound metabolic process	30
+GO:0051174	BP	regulation of phosphorus metabolic process	21
+GO:0051179	BP	localization	874
+GO:0051180	BP	vitamin transport	7
+GO:0051189	BP	prosthetic group metabolic process	3
+GO:0051205	BP	protein insertion into membrane	3
+GO:0051213	MF	dioxygenase activity	13
+GO:0051216	BP	cartilage development	1
+GO:0051222	BP	positive regulation of protein transport	1
+GO:0051223	BP	regulation of protein transport	1
+GO:0051225	BP	spindle assembly	4
+GO:0051234	BP	establishment of localization	865
+GO:0051235	BP	maintenance of location	6
+GO:0051236	BP	establishment of RNA localization	4
+GO:0051239	BP	regulation of multicellular organismal process	16
+GO:0051240	BP	positive regulation of multicellular organismal process	3
+GO:0051246	BP	regulation of protein metabolic process	26
+GO:0051247	BP	positive regulation of protein metabolic process	13
+GO:0051248	BP	negative regulation of protein metabolic process	3
+GO:0051249	BP	regulation of lymphocyte activation	1
+GO:0051250	BP	negative regulation of lymphocyte activation	1
+GO:0051252	BP	regulation of RNA metabolic process	532
+GO:0051253	BP	negative regulation of RNA metabolic process	9
+GO:0051254	BP	positive regulation of RNA metabolic process	16
+GO:0051258	BP	protein polymerization	3
+GO:0051259	BP	protein complex oligomerization	53
+GO:0051260	BP	protein homooligomerization	47
+GO:0051262	BP	protein tetramerization	8
+GO:0051270	BP	regulation of cellular component movement	8
+GO:0051271	BP	negative regulation of cellular component movement	2
+GO:0051276	BP	chromosome organization	60
+GO:0051287	MF	NAD binding	41
+GO:0051289	BP	protein homotetramerization	3
+GO:0051293	BP	establishment of spindle localization	1
+GO:0051301	BP	cell division	6
+GO:0051302	BP	regulation of cell division	1
+GO:0051321	BP	meiotic cell cycle	1
+GO:0051336	BP	regulation of hydrolase activity	28
+GO:0051338	BP	regulation of transferase activity	9
+GO:0051345	BP	positive regulation of hydrolase activity	3
+GO:0051346	BP	negative regulation of hydrolase activity	5
+GO:0051347	BP	positive regulation of transferase activity	6
+GO:0051382	BP	kinetochore assembly	4
+GO:0051383	BP	kinetochore organization	4
+GO:0051424	MF	corticotropin-releasing hormone binding	1
+GO:0051427	MF	hormone receptor binding	1
+GO:0051493	BP	regulation of cytoskeleton organization	25
+GO:0051494	BP	negative regulation of cytoskeleton organization	11
+GO:0051495	BP	positive regulation of cytoskeleton organization	4
+GO:0051499	MF	D-aminoacyl-tRNA deacylase activity	2
+GO:0051536	MF	iron-sulfur cluster binding	29
+GO:0051537	MF	2 iron, 2 sulfur cluster binding	8
+GO:0051539	MF	4 iron, 4 sulfur cluster binding	5
+GO:0051540	MF	metal cluster binding	29
+GO:0051603	BP	proteolysis involved in cellular protein catabolic process	61
+GO:0051604	BP	protein maturation	10
+GO:0051607	BP	defense response to virus	1
+GO:0051640	BP	organelle localization	3
+GO:0051641	BP	cellular localization	125
+GO:0051648	BP	vesicle localization	1
+GO:0051649	BP	establishment of localization in cell	119
+GO:0051650	BP	establishment of vesicle localization	1
+GO:0051651	BP	maintenance of location in cell	4
+GO:0051653	BP	spindle localization	1
+GO:0051656	BP	establishment of organelle localization	2
+GO:0051668	BP	localization within membrane	1
+GO:0051693	BP	actin filament capping	8
+GO:0051694	BP	pointed-end actin filament capping	6
+GO:0051701	BP	interaction with host	3
+GO:0051704	BP	multi-organism process	15
+GO:0051707	BP	response to other organism	2
+GO:0051716	BP	cellular response to stimulus	104
+GO:0051726	BP	regulation of cell cycle	28
+GO:0051751	MF	alpha-1,4-mannosyltransferase activity	1
+GO:0051783	BP	regulation of nuclear division	5
+GO:0051784	BP	negative regulation of nuclear division	1
+GO:0051817	BP	modulation of process of other organism involved in symbiotic interaction	2
+GO:0051875	BP	pigment granule localization	1
+GO:0051879	MF	Hsp90 protein binding	1
+GO:0051904	BP	pigment granule transport	1
+GO:0051905	BP	establishment of pigment granule localization	1
+GO:0051920	MF	peroxiredoxin activity	8
+GO:0051924	BP	regulation of calcium ion transport	1
+GO:0051960	BP	regulation of nervous system development	2
+GO:0051962	BP	positive regulation of nervous system development	2
+GO:0051972	BP	regulation of telomerase activity	1
+GO:0051973	BP	positive regulation of telomerase activity	1
+GO:0051983	BP	regulation of chromosome segregation	3
+GO:0051985	BP	negative regulation of chromosome segregation	1
+GO:0051998	MF	protein carboxyl O-methyltransferase activity	3
+GO:0052173	BP	response to defenses of other organism	1
+GO:0052200	BP	response to host defenses	1
+GO:0052547	BP	regulation of peptidase activity	3
+GO:0052548	BP	regulation of endopeptidase activity	3
+GO:0052646	BP	alditol phosphate metabolic process	3
+GO:0052652	BP	cyclic purine nucleotide metabolic process	11
+GO:0052689	MF	carboxylic ester hydrolase activity	29
+GO:0052855	MF	ADP-dependent NAD(P)H-hydrate dehydratase activity	1
+GO:0052866	MF	phosphatidylinositol phosphate phosphatase activity	2
+GO:0055029	CC	nuclear DNA-directed RNA polymerase complex	3
+GO:0055065	BP	metal ion homeostasis	4
+GO:0055070	BP	copper ion homeostasis	1
+GO:0055072	BP	iron ion homeostasis	1
+GO:0055074	BP	calcium ion homeostasis	2
+GO:0055076	BP	transition metal ion homeostasis	2
+GO:0055080	BP	cation homeostasis	4
+GO:0055082	BP	cellular chemical homeostasis	3
+GO:0055085	BP	transmembrane transport	445
+GO:0055086	BP	nucleobase-containing small molecule metabolic process	89
+GO:0055088	BP	lipid homeostasis	1
+GO:0055092	BP	sterol homeostasis	1
+GO:0055102	MF	lipase inhibitor activity	2
+GO:0055114	BP	oxidation-reduction process	509
+GO:0060089	MF	molecular transducer activity	485
+GO:0060090	MF	molecular adaptor activity	8
+GO:0060249	BP	anatomical structure homeostasis	9
+GO:0060255	BP	regulation of macromolecule metabolic process	579
+GO:0060271	BP	cilium assembly	7
+GO:0060284	BP	regulation of cell development	5
+GO:0060294	BP	cilium movement involved in cell motility	2
+GO:0060341	BP	regulation of cellular localization	1
+GO:0060548	BP	negative regulation of cell death	4
+GO:0060589	MF	nucleoside-triphosphatase regulator activity	58
+GO:0060590	MF	ATPase regulator activity	5
+GO:0060627	BP	regulation of vesicle-mediated transport	1
+GO:0060632	BP	regulation of microtubule-based movement	1
+GO:0060828	BP	regulation of canonical Wnt signaling pathway	2
+GO:0061024	BP	membrane organization	27
+GO:0061025	BP	membrane fusion	7
+GO:0061035	BP	regulation of cartilage development	2
+GO:0061134	MF	peptidase regulator activity	62
+GO:0061135	MF	endopeptidase regulator activity	48
+GO:0061181	BP	regulation of chondrocyte development	2
+GO:0061400	BP	positive regulation of transcription from RNA polymerase II promoter in response to calcium ion	3
+GO:0061572	BP	actin filament bundle organization	2
+GO:0061575	MF	cyclin-dependent protein serine/threonine kinase activator activity	3
+GO:0061608	MF	nuclear import signal receptor activity	7
+GO:0061617	CC	MICOS complex	2
+GO:0061630	MF	ubiquitin protein ligase activity	23
+GO:0061640	BP	cytoskeleton-dependent cytokinesis	2
+GO:0061650	MF	ubiquitin-like protein conjugating enzyme activity	2
+GO:0061657	MF	UFM1 conjugating enzyme activity	2
+GO:0061659	MF	ubiquitin-like protein ligase activity	24
+GO:0061666	MF	UFM1 ligase activity	1
+GO:0061695	CC	transferase complex, transferring phosphorus-containing groups	13
+GO:0061731	MF	ribonucleoside-diphosphate reductase activity	1
+GO:0061733	MF	peptide-lysine-N-acetyltransferase activity	11
+GO:0061783	MF	peptidoglycan muralytic activity	4
+GO:0062023	CC	collagen-containing extracellular matrix	6
+GO:0065002	BP	intracellular protein transmembrane transport	1
+GO:0065003	BP	protein-containing complex assembly	109
+GO:0065004	BP	protein-DNA complex assembly	20
+GO:0065007	BP	biological regulation	1630
+GO:0065008	BP	regulation of biological quality	74
+GO:0065009	BP	regulation of molecular function	42
+GO:0070001	MF	aspartic-type peptidase activity	12
+GO:0070004	MF	cysteine-type exopeptidase activity	3
+GO:0070006	MF	metalloaminopeptidase activity	3
+GO:0070008	MF	serine-type exopeptidase activity	5
+GO:0070013	CC	intracellular organelle lumen	5
+GO:0070037	MF	rRNA (pseudouridine) methyltransferase activity	1
+GO:0070069	CC	cytochrome complex	4
+GO:0070070	BP	proton-transporting V-type ATPase complex assembly	2
+GO:0070071	BP	proton-transporting two-sector ATPase complex assembly	3
+GO:0070072	BP	vacuolar proton-transporting V-type ATPase complex assembly	2
+GO:0070085	BP	glycosylation	86
+GO:0070120	BP	ciliary neurotrophic factor-mediated signaling pathway	2
+GO:0070122	MF	isopeptidase activity	13
+GO:0070138	MF	ubiquitin-like protein-specific isopeptidase activity	1
+GO:0070140	MF	SUMO-specific isopeptidase activity	1
+GO:0070161	CC	anchoring junction	4
+GO:0070176	CC	DRM complex	1
+GO:0070192	BP	chromosome organization involved in meiotic cell cycle	1
+GO:0070193	BP	synaptonemal complex organization	1
+GO:0070201	BP	regulation of establishment of protein localization	1
+GO:0070273	MF	phosphatidylinositol-4-phosphate binding	2
+GO:0070279	MF	vitamin B6 binding	33
+GO:0070325	MF	lipoprotein particle receptor binding	1
+GO:0070403	MF	NAD+ binding	13
+GO:0070405	MF	ammonium ion binding	1
+GO:0070449	CC	elongin complex	1
+GO:0070461	CC	SAGA-type complex	3
+GO:0070469	CC	respirasome	1
+GO:0070475	BP	rRNA base methylation	2
+GO:0070476	BP	rRNA (guanine-N7)-methylation	1
+GO:0070507	BP	regulation of microtubule cytoskeleton organization	7
+GO:0070531	CC	BRCA1-A complex	1
+GO:0070547	MF	L-tyrosine aminotransferase activity	1
+GO:0070552	CC	BRISC complex	1
+GO:0070566	MF	adenylyltransferase activity	9
+GO:0070567	MF	cytidylyltransferase activity	2
+GO:0070568	MF	guanylyltransferase activity	2
+GO:0070569	MF	uridylyltransferase activity	4
+GO:0070588	BP	calcium ion transmembrane transport	12
+GO:0070603	CC	SWI/SNF superfamily-type complex	1
+GO:0070613	BP	regulation of protein processing	1
+GO:0070615	MF	nucleosome-dependent ATPase activity	32
+GO:0070646	BP	protein modification by small protein removal	56
+GO:0070647	BP	protein modification by small protein conjugation or removal	87
+GO:0070652	CC	HAUS complex	2
+GO:0070727	BP	cellular macromolecule localization	21
+GO:0070823	CC	HDA1 complex	2
+GO:0070836	BP	caveola assembly	4
+GO:0070838	BP	divalent metal ion transport	18
+GO:0070840	MF	dynein complex binding	4
+GO:0070876	CC	SOSS complex	1
+GO:0070887	BP	cellular response to chemical stimulus	1
+GO:0070925	BP	organelle assembly	24
+GO:0070972	BP	protein localization to endoplasmic reticulum	7
+GO:0071103	BP	DNA conformation change	32
+GO:0071173	BP	spindle assembly checkpoint	1
+GO:0071174	BP	mitotic spindle checkpoint	1
+GO:0071203	CC	WASH complex	2
+GO:0071214	BP	cellular response to abiotic stimulus	1
+GO:0071229	BP	cellular response to acid chemical	1
+GO:0071230	BP	cellular response to amino acid stimulus	1
+GO:0071253	MF	connexin binding	1
+GO:0071310	BP	cellular response to organic substance	1
+GO:0071417	BP	cellular response to organonitrogen compound	1
+GO:0071478	BP	cellular response to radiation	1
+GO:0071479	BP	cellular response to ionizing radiation	1
+GO:0071495	BP	cellular response to endogenous stimulus	1
+GO:0071496	BP	cellular response to external stimulus	6
+GO:0071545	BP	inositol phosphate catabolic process	5
+GO:0071568	MF	UFM1 transferase activity	3
+GO:0071569	BP	protein ufmylation	3
+GO:0071586	BP	CAAX-box protein processing	1
+GO:0071595	CC	Nem1-Spo7 phosphatase complex	1
+GO:0071702	BP	organic substance transport	232
+GO:0071704	BP	organic substance metabolic process	2523
+GO:0071705	BP	nitrogen compound transport	144
+GO:0071709	BP	membrane assembly	4
+GO:0071715	BP	icosanoid transport	7
+GO:0071806	BP	protein transmembrane transport	1
+GO:0071816	BP	tail-anchored membrane protein insertion into ER membrane	1
+GO:0071821	CC	FANCM-MHF complex	2
+GO:0071824	BP	protein-DNA complex subunit organization	21
+GO:0071826	BP	ribonucleoprotein complex subunit organization	7
+GO:0071840	BP	cellular component organization or biogenesis	331
+GO:0071855	MF	neuropeptide receptor binding	2
+GO:0071897	BP	DNA biosynthetic process	2
+GO:0071900	BP	regulation of protein serine/threonine kinase activity	8
+GO:0071902	BP	positive regulation of protein serine/threonine kinase activity	5
+GO:0071918	BP	urea transmembrane transport	1
+GO:0071929	BP	alpha-tubulin acetylation	1
+GO:0071949	MF	FAD binding	9
+GO:0071985	BP	multivesicular body sorting pathway	1
+GO:0071986	CC	Ragulator complex	1
+GO:0072329	BP	monocarboxylic acid catabolic process	5
+GO:0072330	BP	monocarboxylic acid biosynthetic process	8
+GO:0072341	MF	modified amino acid binding	2
+GO:0072348	BP	sulfur compound transport	8
+GO:0072350	BP	tricarboxylic acid metabolic process	1
+GO:0072503	BP	cellular divalent inorganic cation homeostasis	2
+GO:0072507	BP	divalent inorganic cation homeostasis	2
+GO:0072509	MF	divalent inorganic cation transmembrane transporter activity	25
+GO:0072511	BP	divalent inorganic cation transport	18
+GO:0072521	BP	purine-containing compound metabolic process	53
+GO:0072522	BP	purine-containing compound biosynthetic process	35
+GO:0072524	BP	pyridine-containing compound metabolic process	18
+GO:0072525	BP	pyridine-containing compound biosynthetic process	4
+GO:0072527	BP	pyrimidine-containing compound metabolic process	5
+GO:0072528	BP	pyrimidine-containing compound biosynthetic process	4
+GO:0072529	BP	pyrimidine-containing compound catabolic process	1
+GO:0072531	BP	pyrimidine-containing compound transmembrane transport	8
+GO:0072544	MF	L-DOPA binding	1
+GO:0072545	MF	tyrosine binding	1
+GO:0072546	CC	ER membrane protein complex	2
+GO:0072593	BP	reactive oxygen species metabolic process	8
+GO:0072594	BP	establishment of protein localization to organelle	16
+GO:0072595	BP	maintenance of protein localization in organelle	3
+GO:0072599	BP	establishment of protein localization to endoplasmic reticulum	7
+GO:0072657	BP	protein localization to membrane	12
+GO:0072662	BP	protein localization to peroxisome	1
+GO:0072663	BP	establishment of protein localization to peroxisome	1
+GO:0072669	CC	tRNA-splicing ligase complex	1
+GO:0075136	BP	response to host	1
+GO:0080008	CC	Cul4-RING E3 ubiquitin ligase complex	1
+GO:0080009	BP	mRNA methylation	1
+GO:0080090	BP	regulation of primary metabolic process	564
+GO:0080134	BP	regulation of response to stress	7
+GO:0080135	BP	regulation of cellular response to stress	3
+GO:0080171	BP	lytic vacuole organization	1
+GO:0090066	BP	regulation of anatomical structure size	21
+GO:0090068	BP	positive regulation of cell cycle process	3
+GO:0090087	BP	regulation of peptide transport	1
+GO:0090092	BP	regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	2
+GO:0090101	BP	negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	2
+GO:0090150	BP	establishment of protein localization to membrane	11
+GO:0090174	BP	organelle membrane fusion	1
+GO:0090199	BP	regulation of release of cytochrome c from mitochondria	1
+GO:0090200	BP	positive regulation of release of cytochrome c from mitochondria	1
+GO:0090231	BP	regulation of spindle checkpoint	1
+GO:0090257	BP	regulation of muscle system process	1
+GO:0090263	BP	positive regulation of canonical Wnt signaling pathway	2
+GO:0090266	BP	regulation of mitotic cell cycle spindle assembly checkpoint	1
+GO:0090287	BP	regulation of cellular response to growth factor stimulus	2
+GO:0090288	BP	negative regulation of cellular response to growth factor stimulus	2
+GO:0090304	BP	nucleic acid metabolic process	679
+GO:0090305	BP	nucleic acid phosphodiester bond hydrolysis	3
+GO:0090307	BP	mitotic spindle assembly	1
+GO:0090329	BP	regulation of DNA-dependent DNA replication	1
+GO:0090407	BP	organophosphate biosynthetic process	89
+GO:0090481	BP	pyrimidine nucleotide-sugar transmembrane transport	8
+GO:0090482	MF	vitamin transmembrane transporter activity	2
+GO:0090501	BP	RNA phosphodiester bond hydrolysis	1
+GO:0090533	CC	cation-transporting ATPase complex	3
+GO:0090571	CC	RNA polymerase II transcription repressor complex	1
+GO:0090575	CC	RNA polymerase II transcription regulator complex	6
+GO:0090665	CC	glycoprotein complex	1
+GO:0090730	CC	Las1 complex	1
+GO:0095500	BP	acetylcholine receptor signaling pathway	1
+GO:0097020	MF	COPII adaptor activity	1
+GO:0097035	BP	regulation of membrane lipid distribution	6
+GO:0097159	MF	organic cyclic compound binding	2910
+GO:0097164	BP	ammonium ion metabolic process	1
+GO:0097190	BP	apoptotic signaling pathway	2
+GO:0097193	BP	intrinsic apoptotic signaling pathway	2
+GO:0097197	CC	tetraspanin-enriched microdomain	1
+GO:0097346	CC	INO80-type complex	1
+GO:0097354	BP	prenylation	3
+GO:0097367	MF	carbohydrate derivative binding	1333
+GO:0097435	BP	supramolecular fiber organization	10
+GO:0097485	BP	neuron projection guidance	1
+GO:0097525	CC	spliceosomal snRNP complex	6
+GO:0097526	CC	spliceosomal tri-snRNP complex	4
+GO:0097546	CC	ciliary base	1
+GO:0097602	MF	cullin family protein binding	14
+GO:0097651	CC	phosphatidylinositol 3-kinase complex, class I	4
+GO:0097659	BP	nucleic acid-templated transcription	57
+GO:0097696	BP	receptor signaling pathway via STAT	1
+GO:0097708	CC	intracellular vesicle	7
+GO:0097746	BP	regulation of blood vessel diameter	3
+GO:0097747	MF	RNA polymerase activity	19
+GO:0098531	MF	ligand-activated transcription factor activity	1
+GO:0098533	CC	ATPase dependent transmembrane transport complex	3
+GO:0098534	BP	centriole assembly	1
+GO:0098542	BP	defense response to other organism	1
+GO:0098573	CC	intrinsic component of mitochondrial membrane	2
+GO:0098588	CC	bounding membrane of organelle	31
+GO:0098589	CC	membrane region	2
+GO:0098609	BP	cell-cell adhesion	193
+GO:0098655	BP	cation transmembrane transport	47
+GO:0098656	BP	anion transmembrane transport	3
+GO:0098660	BP	inorganic ion transmembrane transport	48
+GO:0098661	BP	inorganic anion transmembrane transport	1
+GO:0098662	BP	inorganic cation transmembrane transport	47
+GO:0098687	CC	chromosomal region	7
+GO:0098732	BP	macromolecule deacylation	3
+GO:0098742	BP	cell-cell adhesion via plasma-membrane adhesion molecules	193
+GO:0098771	BP	inorganic ion homeostasis	4
+GO:0098772	MF	molecular function regulator	271
+GO:0098791	CC	Golgi apparatus subcompartment	2
+GO:0098796	CC	membrane protein complex	94
+GO:0098797	CC	plasma membrane protein complex	18
+GO:0098798	CC	mitochondrial protein complex	19
+GO:0098799	CC	outer mitochondrial membrane protein complex	5
+GO:0098800	CC	inner mitochondrial membrane protein complex	14
+GO:0098803	CC	respiratory chain complex	8
+GO:0098805	CC	whole membrane	11
+GO:0098809	MF	nitrite reductase activity	5
+GO:0098813	BP	nuclear chromosome segregation	3
+GO:0098840	BP	protein transport along microtubule	1
+GO:0098847	MF	sequence-specific single stranded DNA binding	1
+GO:0098852	CC	lytic vacuole membrane	2
+GO:0098857	CC	membrane microdomain	2
+GO:0098916	BP	anterograde trans-synaptic signaling	2
+GO:0099023	CC	vesicle tethering complex	20
+GO:0099080	CC	supramolecular complex	17
+GO:0099081	CC	supramolecular polymer	17
+GO:0099086	CC	synaptonemal structure	1
+GO:0099094	MF	ligand-gated cation channel activity	2
+GO:0099106	MF	ion channel regulator activity	2
+GO:0099111	BP	microtubule-based transport	1
+GO:0099118	BP	microtubule-based protein transport	1
+GO:0099503	CC	secretory vesicle	4
+GO:0099512	CC	supramolecular fiber	17
+GO:0099513	CC	polymeric cytoskeletal fiber	14
+GO:0099536	BP	synaptic signaling	2
+GO:0099537	BP	trans-synaptic signaling	2
+GO:0099568	CC	cytoplasmic region	1
+GO:0099604	MF	ligand-gated calcium channel activity	2
+GO:0101005	MF	ubiquitinyl hydrolase activity	62
+GO:0106005	BP	RNA 5'-cap (guanine-N7)-methylation	1
+GO:0106073	MF	dolichyl pyrophosphate Glc2Man9GlcNAc2 alpha-1,2-glucosyltransferase activity	1
+GO:0106245	MF	L-serine-phosphatidylethanolamine phosphatidyltransferase activity	2
+GO:0120009	BP	intermembrane lipid transfer	2
+GO:0120013	MF	lipid transfer activity	2
+GO:0120025	CC	plasma membrane bounded cell projection	5
+GO:1900024	BP	regulation of substrate adhesion-dependent cell spreading	1
+GO:1900025	BP	negative regulation of substrate adhesion-dependent cell spreading	1
+GO:1901031	BP	regulation of response to reactive oxygen species	3
+GO:1901068	BP	guanosine-containing compound metabolic process	2
+GO:1901070	BP	guanosine-containing compound biosynthetic process	1
+GO:1901135	BP	carbohydrate derivative metabolic process	104
+GO:1901136	BP	carbohydrate derivative catabolic process	11
+GO:1901137	BP	carbohydrate derivative biosynthetic process	53
+GO:1901214	BP	regulation of neuron death	2
+GO:1901215	BP	negative regulation of neuron death	2
+GO:1901264	BP	carbohydrate derivative transport	13
+GO:1901265	MF	nucleoside phosphate binding	1418
+GO:1901292	BP	nucleoside phosphate catabolic process	5
+GO:1901293	BP	nucleoside phosphate biosynthetic process	51
+GO:1901338	MF	catecholamine binding	1
+GO:1901342	BP	regulation of vasculature development	3
+GO:1901360	BP	organic cyclic compound metabolic process	824
+GO:1901361	BP	organic cyclic compound catabolic process	20
+GO:1901362	BP	organic cyclic compound biosynthetic process	177
+GO:1901363	MF	heterocyclic compound binding	2909
+GO:1901505	MF	carbohydrate derivative transmembrane transporter activity	13
+GO:1901522	BP	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus	3
+GO:1901564	BP	organonitrogen compound metabolic process	1585
+GO:1901565	BP	organonitrogen compound catabolic process	33
+GO:1901566	BP	organonitrogen compound biosynthetic process	224
+GO:1901567	MF	fatty acid derivative binding	6
+GO:1901571	BP	fatty acid derivative transport	7
+GO:1901575	BP	organic substance catabolic process	119
+GO:1901576	BP	organic substance biosynthetic process	448
+GO:1901605	BP	alpha-amino acid metabolic process	19
+GO:1901606	BP	alpha-amino acid catabolic process	2
+GO:1901607	BP	alpha-amino acid biosynthetic process	9
+GO:1901615	BP	organic hydroxy compound metabolic process	21
+GO:1901616	BP	organic hydroxy compound catabolic process	5
+GO:1901617	BP	organic hydroxy compound biosynthetic process	14
+GO:1901642	BP	nucleoside transmembrane transport	4
+GO:1901657	BP	glycosyl compound metabolic process	15
+GO:1901658	BP	glycosyl compound catabolic process	1
+GO:1901659	BP	glycosyl compound biosynthetic process	1
+GO:1901661	BP	quinone metabolic process	2
+GO:1901663	BP	quinone biosynthetic process	2
+GO:1901678	BP	iron coordination entity transport	2
+GO:1901681	MF	sulfur compound binding	15
+GO:1901682	MF	sulfur compound transmembrane transporter activity	8
+GO:1901698	BP	response to nitrogen compound	1
+GO:1901699	BP	cellular response to nitrogen compound	1
+GO:1901700	BP	response to oxygen-containing compound	1
+GO:1901701	BP	cellular response to oxygen-containing compound	1
+GO:1901879	BP	regulation of protein depolymerization	8
+GO:1901880	BP	negative regulation of protein depolymerization	8
+GO:1901976	BP	regulation of cell cycle checkpoint	1
+GO:1901981	MF	phosphatidylinositol phosphate binding	3
+GO:1901987	BP	regulation of cell cycle phase transition	8
+GO:1901988	BP	negative regulation of cell cycle phase transition	2
+GO:1901989	BP	positive regulation of cell cycle phase transition	3
+GO:1901990	BP	regulation of mitotic cell cycle phase transition	5
+GO:1901991	BP	negative regulation of mitotic cell cycle phase transition	2
+GO:1902099	BP	regulation of metaphase/anaphase transition of cell cycle	3
+GO:1902100	BP	negative regulation of metaphase/anaphase transition of cell cycle	1
+GO:1902115	BP	regulation of organelle assembly	2
+GO:1902116	BP	negative regulation of organelle assembly	2
+GO:1902221	BP	erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process	1
+GO:1902222	BP	erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process	1
+GO:1902493	CC	acetyltransferase complex	8
+GO:1902494	CC	catalytic complex	104
+GO:1902495	CC	transmembrane transporter complex	15
+GO:1902531	BP	regulation of intracellular signal transduction	37
+GO:1902532	BP	negative regulation of intracellular signal transduction	2
+GO:1902533	BP	positive regulation of intracellular signal transduction	8
+GO:1902554	CC	serine/threonine protein kinase complex	1
+GO:1902555	CC	endoribonuclease complex	2
+GO:1902562	CC	H4 histone acetyltransferase complex	1
+GO:1902600	BP	proton transmembrane transport	31
+GO:1902652	BP	secondary alcohol metabolic process	2
+GO:1902653	BP	secondary alcohol biosynthetic process	1
+GO:1902679	BP	negative regulation of RNA biosynthetic process	9
+GO:1902680	BP	positive regulation of RNA biosynthetic process	16
+GO:1902749	BP	regulation of cell cycle G2/M phase transition	4
+GO:1902750	BP	negative regulation of cell cycle G2/M phase transition	1
+GO:1902751	BP	positive regulation of cell cycle G2/M phase transition	3
+GO:1902767	BP	isoprenoid biosynthetic process via mevalonate	1
+GO:1902850	BP	microtubule cytoskeleton organization involved in mitosis	3
+GO:1902882	BP	regulation of response to oxidative stress	3
+GO:1902903	BP	regulation of supramolecular fiber organization	18
+GO:1902904	BP	negative regulation of supramolecular fiber organization	9
+GO:1902905	BP	positive regulation of supramolecular fiber organization	4
+GO:1902911	CC	protein kinase complex	2
+GO:1903037	BP	regulation of leukocyte cell-cell adhesion	1
+GO:1903038	BP	negative regulation of leukocyte cell-cell adhesion	1
+GO:1903046	BP	meiotic cell cycle process	4
+GO:1903047	BP	mitotic cell cycle process	13
+GO:1903076	BP	regulation of protein localization to plasma membrane	1
+GO:1903078	BP	positive regulation of protein localization to plasma membrane	1
+GO:1903293	CC	phosphatase complex	7
+GO:1903317	BP	regulation of protein maturation	1
+GO:1903319	BP	positive regulation of protein maturation	1
+GO:1903409	BP	reactive oxygen species biosynthetic process	2
+GO:1903504	BP	regulation of mitotic spindle checkpoint	1
+GO:1903506	BP	regulation of nucleic acid-templated transcription	532
+GO:1903507	BP	negative regulation of nucleic acid-templated transcription	9
+GO:1903508	BP	positive regulation of nucleic acid-templated transcription	16
+GO:1903509	BP	liposaccharide metabolic process	16
+GO:1903510	BP	mucopolysaccharide metabolic process	7
+GO:1903522	BP	regulation of blood circulation	2
+GO:1903729	BP	regulation of plasma membrane organization	1
+GO:1903825	BP	organic acid transmembrane transport	2
+GO:1903827	BP	regulation of cellular protein localization	1
+GO:1903829	BP	positive regulation of cellular protein localization	1
+GO:1903831	BP	signal transduction involved in cellular response to ammonium ion	1
+GO:1903844	BP	regulation of cellular response to transforming growth factor beta stimulus	2
+GO:1903845	BP	negative regulation of cellular response to transforming growth factor beta stimulus	2
+GO:1903963	BP	arachidonate transport	7
+GO:1904018	BP	positive regulation of vasculature development	1
+GO:1904029	BP	regulation of cyclin-dependent protein kinase activity	3
+GO:1904375	BP	regulation of protein localization to cell periphery	1
+GO:1904377	BP	positive regulation of protein localization to cell periphery	1
+GO:1904949	CC	ATPase complex	3
+GO:1904951	BP	positive regulation of establishment of protein localization	1
+GO:1905030	MF	voltage-gated ion channel activity involved in regulation of postsynaptic membrane potential	5
+GO:1905037	BP	autophagosome organization	7
+GO:1905039	BP	carboxylic acid transmembrane transport	2
+GO:1905114	BP	cell surface receptor signaling pathway involved in cell-cell signaling	23
+GO:1905348	CC	endonuclease complex	2
+GO:1905354	CC	exoribonuclease complex	3
+GO:1905368	CC	peptidase complex	6
+GO:1905369	CC	endopeptidase complex	1
+GO:1905462	BP	regulation of DNA duplex unwinding	1
+GO:1905463	BP	negative regulation of DNA duplex unwinding	1
+GO:1905475	BP	regulation of protein localization to membrane	1
+GO:1905477	BP	positive regulation of protein localization to membrane	1
+GO:1905515	BP	non-motile cilium assembly	1
+GO:1905774	BP	regulation of DNA helicase activity	1
+GO:1905775	BP	negative regulation of DNA helicase activity	1
+GO:1905818	BP	regulation of chromosome separation	3
+GO:1905819	BP	negative regulation of chromosome separation	1
+GO:1990204	CC	oxidoreductase complex	5
+GO:1990234	CC	transferase complex	52
+GO:1990316	CC	Atg1/ULK1 kinase complex	1
+GO:1990351	CC	transporter complex	15
+GO:1990380	MF	Lys48-specific deubiquitinase activity	2
+GO:1990423	CC	RZZ complex	1
+GO:1990782	MF	protein tyrosine kinase binding	2
+GO:1990817	MF	RNA adenylyltransferase activity	4
+GO:1990837	MF	sequence-specific double-stranded DNA binding	18
+GO:1990879	CC	CST complex	1
+GO:1990904	CC	ribonucleoprotein complex	182
+GO:1990939	MF	ATP-dependent microtubule motor activity	17
+GO:2000026	BP	regulation of multicellular organismal development	12
+GO:2000104	BP	negative regulation of DNA-dependent DNA replication	1
+GO:2000112	BP	regulation of cellular macromolecule biosynthetic process	540
+GO:2000113	BP	negative regulation of cellular macromolecule biosynthetic process	11
+GO:2000116	BP	regulation of cysteine-type endopeptidase activity	2
+GO:2000145	BP	regulation of cell motility	7
+GO:2000146	BP	negative regulation of cell motility	2
+GO:2000278	BP	regulation of DNA biosynthetic process	1
+GO:2000573	BP	positive regulation of DNA biosynthetic process	1
+GO:2000638	BP	regulation of SREBP signaling pathway	1
+GO:2000640	BP	positive regulation of SREBP signaling pathway	1
+GO:2000779	BP	regulation of double-strand break repair	2
+GO:2000780	BP	negative regulation of double-strand break repair	1
+GO:2000816	BP	negative regulation of mitotic sister chromatid separation	1
+GO:2001020	BP	regulation of response to DNA damage stimulus	2
+GO:2001021	BP	negative regulation of response to DNA damage stimulus	1
+GO:2001032	BP	regulation of double-strand break repair via nonhomologous end joining	2
+GO:2001033	BP	negative regulation of double-strand break repair via nonhomologous end joining	1
+GO:2001056	BP	positive regulation of cysteine-type endopeptidase activity	2
+GO:2001057	BP	reactive nitrogen species metabolic process	2
+GO:2001070	MF	starch binding	9
+GO:2001141	BP	regulation of RNA biosynthetic process	532
+GO:2001233	BP	regulation of apoptotic signaling pathway	1
+GO:2001235	BP	positive regulation of apoptotic signaling pathway	1
+GO:2001251	BP	negative regulation of chromosome organization	2
+GO:2001256	BP	regulation of store-operated calcium entry	1
